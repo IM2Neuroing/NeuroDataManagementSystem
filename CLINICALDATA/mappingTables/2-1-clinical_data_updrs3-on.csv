@@ -1,0 +1,33 @@
+Table,Attribute,NotNull,field_name
+clinical_data_updrs3,subject_id,NOT NULL,GLOB(record_id)
+clinical_data_updrs3,session_name,NOT NULL,clin_aq_type
+clinical_data_updrs3,stimulation_status,NOT NULL,SET_(on)
+clinical_data_updrs3,date_updrs,,date_updrs
+clinical_data_updrs3,updrs3_18,,updrs3_18_on
+clinical_data_updrs3,updrs3_19,,updrs3_19_on
+clinical_data_updrs3,updrs3_20_face,,updrs3_20_face_on
+clinical_data_updrs3,updrs3_20_hand_l,,updrs3_20_hand_l_on
+clinical_data_updrs3,updrs3_20_hand_r,,updrs3_20_hand_r_on
+clinical_data_updrs3,updrs3_20_foot_l,,updrs3_20_foot_l_on
+clinical_data_updrs3,updrs3_20_foot_r,,updrs3_20_foot_r_on
+clinical_data_updrs3,updrs3_21_l,,updrs3_21_l_on
+clinical_data_updrs3,updrs3_21_r,,updrs3_21_r_on
+clinical_data_updrs3,updrs3_22_neck,,updrs3_22_neck_on
+clinical_data_updrs3,updrs3_22_lue,,updrs3_22_lue_on
+clinical_data_updrs3,updrs3_22_rue,,updrs3_22_rue_on
+clinical_data_updrs3,updrs3_22_lle,,updrs3_22_lle_on
+clinical_data_updrs3,updrs3_22_rle,,updrs3_22_rle_on
+clinical_data_updrs3,updrs3_23_l,,updrs3_23_l_on
+clinical_data_updrs3,updrs3_23_r,,updrs3_23_r_on
+clinical_data_updrs3,updrs3_24_l,,updrs3_24_l_on
+clinical_data_updrs3,updrs3_24_r,,updrs3_24_r_on
+clinical_data_updrs3,updrs3_25_l,,updrs3_25_l_on
+clinical_data_updrs3,updrs3_25_r,,updrs3_25_r_on
+clinical_data_updrs3,updrs3_26_l,,updrs3_26_l_on
+clinical_data_updrs3,updrs3_26_r,,updrs3_26_r_on
+clinical_data_updrs3,updrs3_27,,updrs3_27_on
+clinical_data_updrs3,updrs3_28,,updrs3_28_on
+clinical_data_updrs3,updrs3_29,,updrs3_29_on
+clinical_data_updrs3,updrs3_30,,updrs3_30_on
+clinical_data_updrs3,updrs3_31,,updrs3_31_on
+clinical_data_updrs3,updrs3_sum,,updrs3_sum_on

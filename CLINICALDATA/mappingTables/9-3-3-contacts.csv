@@ -1,0 +1,4 @@
+Table,Attribute,NotNull,field_name
+contacts,chronic_stim_parameter_id,NOT NULL,"SRCH(chronic_stim_parameter_id, chronic_stim_parameters, subject_id, GLOB(record_id), hemisphere, chr_stim_params_hemisphere, stimulation_mode, voltage_or_current, stimulation_polarity, polarity)"
+contacts,contact_setup_id,NOT NULL,"SRCH(contact_setup_id, contact_setup, contact_config, contact_3, pulse_width, pw_3, frequency, freq_3, amplitude, ampl_3)"
+contacts,contact_number,NOT NULL,"__IF(GLOB(type_impl_electrode),SET_(Abbott SJM 6170),__IF(chr_stim_params_hemisphere,SET_(Right),SET_(4),SET_(12)), __IF(chr_stim_params_hemisphere,SET_(Right),SET_(3),SET_(7)))"

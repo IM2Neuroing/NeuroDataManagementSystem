@@ -1,0 +1,9 @@
+Table,Attribute,NotNull,field_name
+targeting_info,targeting_info_id,NOT NULL,AUTO
+targeting_info,subject_id,NOT NULL,GLOB(record_id)
+targeting_info,implanted_1st_hemisphere,NOT NULL,"__IF(bilat_impl,SET_(Yes),bilat_which_first,unilat_which_side)"
+targeting_info,bilateral_implant,,bilat_impl
+targeting_info,electrode_name,,type_impl_electrode
+targeting_info,brain_structure,NOT NULL,target_structure
+targeting_info,is_intraop_meas_available,,have_intraop_meas
+targeting_info,iplan_data_available,,GLOB(iplan_planning_data)

@@ -1,0 +1,2 @@
+Table,Attribute,NotNull,field_name
+side_effect_types,side_effect,NOT NULL,"__IF(MULT(macro_add2_se),SET_(AUTre),macro_add2_se_other,macro_add2_se)"

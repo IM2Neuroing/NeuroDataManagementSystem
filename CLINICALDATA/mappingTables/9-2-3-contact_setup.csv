@@ -1,0 +1,5 @@
+Table,Attribute,NotNull,field_name
+contact_setup,contact_config,NOT NULL,contact_3
+contact_setup,pulse_width,,pw_3
+contact_setup,frequency,,freq_3
+contact_setup,amplitude,,ampl_3

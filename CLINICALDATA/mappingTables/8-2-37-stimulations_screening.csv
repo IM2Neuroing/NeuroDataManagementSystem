@@ -1,0 +1,3 @@
+Table,Attribute,NotNull,field_name
+stimulations,stim_session_id,NOT NULL,"SRCH(stim_session_id, stimulation_sessions, subject_id,GLOB(record_id), hemisphere, screening_hemisphere, session_name, SET_(Postoperativ), trajectory_type, SET_(NULL), position_on_trajectory,  SET_(NULL),contact, screening_contact)"
+stimulations,stimulation_eval_id,NOT NULL,"SRCH(stimulation_eval_id, stimulation_evaluations, amplitude, SET_(3.7), stimulation_mode, SET_(Voltage), rigidity, screening_a37_r, rigidity_tremor, SET_(NULL), tremor, SET_(NULL), tremor_lower, screening_a37_t2, tremor_upper, screening_a37_t, ataxia,SET_(NULL), akinesia_thumb, screening_a37_a, akinesia_foot, screening_a37_a2, comments, screening_a37_c )"

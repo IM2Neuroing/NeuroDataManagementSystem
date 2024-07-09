@@ -1,0 +1,13 @@
+Table,Attribute,NotNull,field_name
+stimulation_evaluations,stimulation_eval_id,NOT NULL,AUTO
+stimulation_evaluations,amplitude,NOT NULL,macro_amp_add_1
+stimulation_evaluations,stimulation_mode,NOT NULL,SET_(Current)
+stimulation_evaluations,rigidity,,macro_add1_r
+stimulation_evaluations,rigidity_tremor,,macro_add1_rt
+stimulation_evaluations,tremor,,macro_add1_t
+stimulation_evaluations,tremor_lower,,AUTO
+stimulation_evaluations,tremor_upper,,AUTO
+stimulation_evaluations,ataxia,,AUTO
+stimulation_evaluations,akinesia_thumb,,AUTO
+stimulation_evaluations,akinesia_foot,,AUTO
+stimulation_evaluations,comments,,macro_add1_c

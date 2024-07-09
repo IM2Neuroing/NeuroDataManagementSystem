@@ -1,0 +1,12 @@
+Table,Attribute,NotNull,field_name
+medications,subject_id,NOT NULL,GLOB(record_id)
+medications,session_name,NOT NULL,clin_aq_type
+medications,acquisition_date,NOT NULL,clin_aq_date
+medications,dose_primidone,,et_dose_primidone
+medications,dose_propranolol,,et_dose_propranolol
+medications,dose_gabapentin,,et_dose_gabapetin
+medications,dose_rivotril_clonazepam,,et_dose_rivotril
+medications,dose_topamax,,et_dose_topamax
+medications,dose_ledd,,pd_ldd
+medications,additional_medication,,add_medication
+medications,additonal_session_notes,,clin_notes

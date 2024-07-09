@@ -1,0 +1,8 @@
+Table,Attribute,NotNull,field_name
+stimulation_sessions,stim_session_id,NOT NULL,AUTO
+stimulation_sessions,subject_id,NOT NULL,GLOB(record_id)
+stimulation_sessions,hemisphere,NOT NULL,screening_hemisphere
+stimulation_sessions,session_name,NOT NULL,SET_(Postoperativ)
+stimulation_sessions,trajectory_type,,AUTO
+stimulation_sessions,position_on_trajectory,,AUTO
+stimulation_sessions,contact,,screening_contact

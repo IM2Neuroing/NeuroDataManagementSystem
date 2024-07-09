@@ -1,0 +1,5 @@
+Table,Attribute,NotNull,field_name
+chronic_stim_parameters,subject_id,NOT NULL,GLOB(record_id)
+chronic_stim_parameters,hemisphere,NOT NULL,chr_stim_params_hemisphere
+chronic_stim_parameters,stimulation_mode,NOT NULL,voltage_or_current
+chronic_stim_parameters,stimulation_polarity,NOT NULL,polarity

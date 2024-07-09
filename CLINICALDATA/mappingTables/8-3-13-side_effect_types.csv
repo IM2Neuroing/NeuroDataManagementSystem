@@ -1,0 +1,2 @@
+Table,Attribute,NotNull,field_name
+side_effect_types,side_effect,NOT NULL,"__IF(MULT(screening_a13_se),SET_(AUTre),screening_a13_se_other,screening_a13_se)"

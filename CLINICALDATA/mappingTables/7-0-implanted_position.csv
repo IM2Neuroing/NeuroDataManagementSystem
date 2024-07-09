@@ -1,0 +1,7 @@
+Table,Attribute,NotNull,field_name
+implanted_position,subject_id,NOT NULL,GLOB(record_id)
+implanted_position,hemisphere,NOT NULL,impl_pos_hemisphere
+implanted_position,trajectory_type,NOT NULL,impl_pos_traj
+implanted_position,position_on_trajectory,NOT NULL,impl_pos_pos
+implanted_position,lead_contact,NOT NULL,impl_pos_lead_contact
+implanted_position,contact_border,NOT NULL,impl_pos_contact_border
