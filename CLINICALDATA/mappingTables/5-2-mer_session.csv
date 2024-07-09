@@ -1,0 +1,11 @@
+Table,Attribute,NotNull,field_name
+mer_session,subject_id,NOT NULL,GLOB(record_id)
+mer_session,hemisphere,NOT NULL,mer_test_hemisphere
+mer_session,session_name,NOT NULL,SET_(Intraoperative)
+mer_session,bengun_config,NOT NULL,mer_test_bengun
+mer_session,nr_stimulation_positions,,nr_stim
+mer_session,mer_1_traj_test_id,,AUTO
+mer_session,mer_2_traj_test_id,,AUTO
+mer_session,mer_3_traj_test_id,,AUTO
+mer_session,mer_4_traj_test_id,,AUTO
+mer_session,mer_5_traj_test_id,,AUTO

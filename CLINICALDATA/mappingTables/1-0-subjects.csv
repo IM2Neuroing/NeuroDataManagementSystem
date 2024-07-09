@@ -1,0 +1,10 @@
+Table,Attribute,NotNull,field_name
+subjects,subject_id,NOT NULL,record_id
+subjects,center_name,NOT NULL,SET_(demo)
+subjects,patient_id_acr,NOT NULL,patient_id
+subjects,age,,age
+subjects,sex,,biological_sex
+subjects,pathology,,pathology
+subjects,year_1st_symptom_occ,,first_symptom_occ
+subjects,disease_duration,,duration_disease
+subjects,surgery_date,,surgery_date

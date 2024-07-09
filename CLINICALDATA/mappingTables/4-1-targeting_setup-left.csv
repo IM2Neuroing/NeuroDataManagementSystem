@@ -1,0 +1,11 @@
+Table,Attribute,NotNull,field_name
+targeting_setup,targeting_info_id,NOT NULL,"SRCH(targeting_info_id, targeting_info, subject_id, GLOB(record_id))"
+targeting_setup,hemisphere,NOT NULL,SET_(Left)
+targeting_setup,arc_type,,SET_(Leksell)
+targeting_setup,mounting,,SET_(Lateral Right)
+targeting_setup,x_a2_a1,,st_coords_l_a
+targeting_setup,y_b2,,st_coords_l_b
+targeting_setup,z_c,,st_coords_l_c
+targeting_setup,angle1_d1,,st_coords_l_d
+targeting_setup,angle2_e,,st_coords_l_e
+targeting_setup,angle3_f_roll,,st_coords_roll_l

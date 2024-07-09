@@ -1,0 +1,13 @@
+Table,Attribute,NotNull,field_name
+stimulation_evaluations,stimulation_eval_id,NOT NULL,AUTO
+stimulation_evaluations,amplitude,NOT NULL,SET_(3.1)
+stimulation_evaluations,stimulation_mode,NOT NULL,SET_(Voltage)
+stimulation_evaluations,rigidity,,screening_a31_r
+stimulation_evaluations,rigidity_tremor,,AUTO
+stimulation_evaluations,tremor,,AUTO
+stimulation_evaluations,tremor_lower,,screening_a31_t2
+stimulation_evaluations,tremor_upper,,screening_a31_t
+stimulation_evaluations,ataxia,,AUTO
+stimulation_evaluations,akinesia_thumb,,screening_a31_a
+stimulation_evaluations,akinesia_foot,,screening_a31_a2
+stimulation_evaluations,comments,,screening_a31_c

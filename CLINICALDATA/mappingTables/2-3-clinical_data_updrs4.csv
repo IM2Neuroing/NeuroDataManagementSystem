@@ -1,0 +1,14 @@
+Table,Attribute,NotNull,field_name
+clinical_data_updrs4,subject_id,NOT NULL,GLOB(record_id)
+clinical_data_updrs4,session_name,NOT NULL,clin_aq_type
+clinical_data_updrs4,updrs4_32,,updrs4_32
+clinical_data_updrs4,updrs4_33,,updrs4_33
+clinical_data_updrs4,updrs4_34,,updrs4_34
+clinical_data_updrs4,updrs4_35,,updrs4_35
+clinical_data_updrs4,updrs4_36,,updrs4_36
+clinical_data_updrs4,updrs4_37,,updrs4_37
+clinical_data_updrs4,updrs4_38,,updrs4_38
+clinical_data_updrs4,updrs4_39,,updrs4_39
+clinical_data_updrs4,updrs4_40,,updrs4_40
+clinical_data_updrs4,updrs4_41,,updrs4_41
+clinical_data_updrs4,updrs4_42,,updrs4_42
