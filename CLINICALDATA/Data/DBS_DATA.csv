@@ -1,0 +1,1887 @@
+record,redcap_event_name,redcap_repeat_instrument,redcap_repeat_instance,field_name,value
+6,General Data,,,patient_id,01-S-P_45_M_AAAA
+6,General Data,,,gen_consent_available,No
+6,General Data,,,age,45
+6,General Data,,,biological_sex,Male
+6,General Data,,,pathology,Parkinson
+6,General Data,,,first_symptom_occ,2010
+6,General Data,,,duration_disease,14
+6,General Data,,,surgery_date,2024-02-01
+6,General Data,,,patient_information_complete,Complete
+6,General Data,,,record_id,6
+6,General Data,,,clin_aq_type,Preoperative
+6,General Data,,,clin_aq_date,2024-01-30
+6,General Data,,,pd_ldd,1
+6,General Data,,,et_dose_primidone,2
+6,General Data,,,et_dose_propranolol,3
+6,General Data,,,et_dose_gabapetin,0
+6,General Data,,,et_dose_rivotril,0
+6,General Data,,,et_dose_topamax,0
+6,General Data,,,date_updrs,2024-01-30
+6,General Data,,,updrs3_18_on,2
+6,General Data,,,updrs3_19_on,3
+6,General Data,,,updrs3_20_face_on,3
+6,General Data,,,updrs3_20_hand_r_on,2
+6,General Data,,,updrs3_20_hand_l_on,1
+6,General Data,,,updrs3_20_foot_r_on,3
+6,General Data,,,updrs3_20_foot_l_on,4
+6,General Data,,,updrs3_21_r_on,2
+6,General Data,,,updrs3_21_l_on,1
+6,General Data,,,updrs3_22_neck_on,3
+6,General Data,,,updrs3_22_rue_on,3
+6,General Data,,,updrs3_22_lue_on,2
+6,General Data,,,updrs3_22_rle_on,2
+6,General Data,,,updrs3_22_lle_on,1
+6,General Data,,,updrs3_23_r_on,3
+6,General Data,,,updrs3_23_l_on,2
+6,General Data,,,updrs3_24_r_on,4
+6,General Data,,,updrs3_24_l_on,1
+6,General Data,,,updrs3_25_r_on,3
+6,General Data,,,updrs3_25_l_on,2
+6,General Data,,,updrs3_26_r_on,4
+6,General Data,,,updrs3_26_l_on,1
+6,General Data,,,updrs3_27_on,2
+6,General Data,,,updrs3_28_on,2
+6,General Data,,,updrs3_29_on,1
+6,General Data,,,updrs3_30_on,1
+6,General Data,,,updrs3_31_on,3
+6,General Data,,,updrs3_sum_on,61
+6,General Data,,,updrs3_sum_on_2,61
+6,General Data,,,updrs4_32,2
+6,General Data,,,updrs4_33,2
+6,General Data,,,updrs4_34,2
+6,General Data,,,updrs4_35,1
+6,General Data,,,updrs4_36,0
+6,General Data,,,updrs4_37,1
+6,General Data,,,updrs4_39,2
+6,General Data,,,updrs4_40,0
+6,General Data,,,updrs4_41,1
+6,General Data,,,updrs4_42,0
+6,General Data,,,dyskinesia,no
+6,General Data,,,dysarthria,yes
+6,General Data,,,dystonia,no
+6,General Data,,,disturbed_vision,yes
+6,General Data,,,dizziness,no
+6,General Data,,,mood_changes,yes
+6,General Data,,,paresthesia,yes
+6,General Data,,,ataxia,yes
+6,General Data,,,clinical_data_complete,Complete
+6,General Data,,,updrs4_38,1
+6,General Data,,,updrs3_sum_off_2,NAN
+6,Intraoperative Data,,,preop_ct,stereotactic
+6,Intraoperative Data,,,postop_ct,non-stereotactic
+6,Intraoperative Data,,,preop_mr,stereotactic
+6,Intraoperative Data,,,postop_mr,N/A
+6,Intraoperative Data,,,seq_preop_mr,T1
+6,Intraoperative Data,,,seq_preop_mr,WAIR
+6,Intraoperative Data,,,image_data_complete,Complete
+6,Intraoperative Data,,,record_id,6
+6,Intraoperative Data,,,iplan_planning_data,Yes
+6,Intraoperative Data,,,bilat_impl,Yes
+6,Intraoperative Data,,,bilat_which_first,Left
+6,Intraoperative Data,,,unilat_which_side,Left
+6,Intraoperative Data,,,target_structure,STN
+6,Intraoperative Data,,,type_impl_electrode,Medtronic 3389
+6,Intraoperative Data,,,have_intraop_meas,Yes
+6,Intraoperative Data,,,st_coords_l_a,95
+6,Intraoperative Data,,,st_coords_l_b,105
+6,Intraoperative Data,,,st_coords_l_c,100
+6,Intraoperative Data,,,st_coords_l_d,70
+6,Intraoperative Data,,,st_coords_l_e,83
+6,Intraoperative Data,,,st_coords_r_a,97.5
+6,Intraoperative Data,,,st_coords_r_b,105
+6,Intraoperative Data,,,st_coords_r_c,103
+6,Intraoperative Data,,,st_coords_r_d,86.5
+6,Intraoperative Data,,,st_coords_r_e,110
+6,Intraoperative Data,,,targeting_information_complete,Complete
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_test_hemisphere,Left
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_test_bengun,+ setup
+6,Intraoperative Data,Micro Electrode Recording Form,1,nr_stim,10
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_div_hide,no
+6,Intraoperative Data,Micro Electrode Recording Form,1,micro_electrode_recording_form_complete,Complete
+6,Intraoperative Data,Macro Stimulation Results,1,macro_aq_type,Intraoperative
+6,Intraoperative Data,Macro Stimulation Results,1,macro_hemisphere,Left
+6,Intraoperative Data,Macro Stimulation Results,1,macro_traj,Center
+6,Intraoperative Data,Macro Stimulation Results,1,macro_pos,-10
+6,Intraoperative Data,Macro Stimulation Results,1,macro_amp_add_1,0.4
+6,Intraoperative Data,Macro Stimulation Results,1,macro_add1_r,+++-
+6,Intraoperative Data,Macro Stimulation Results,1,macro_add1_t,+++
+6,Intraoperative Data,Macro Stimulation Results,1,macro_add1_rt,+++-
+6,Intraoperative Data,Macro Stimulation Results,1,macro_amp_add_2,3
+6,Intraoperative Data,Macro Stimulation Results,1,macro_add2_r,+++
+6,Intraoperative Data,Macro Stimulation Results,1,macro_add2_t,0
+6,Intraoperative Data,Macro Stimulation Results,1,macro_add2_rt,+++
+6,Intraoperative Data,Macro Stimulation Results,1,macro_add2_se,DYSatrie
+6,Intraoperative Data,Macro Stimulation Results,1,macro_stimulation_results_complete,Complete
+6,Intraoperative Data,Implanted Position,1,impl_pos_hemisphere,Left
+6,Intraoperative Data,Implanted Position,1,impl_pos_traj,Center
+6,Intraoperative Data,Implanted Position,1,impl_pos_pos,-5
+6,Intraoperative Data,Implanted Position,1,impl_pos_lead_contact,1
+6,Intraoperative Data,Implanted Position,1,impl_pos_contact_border,Milieu (Middle)
+6,Intraoperative Data,Implanted Position,1,implanted_position_complete,Complete
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_tr_1,Center
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_tr_2,Anterior
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_tr_3,Posterior
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_tr_4,Medial
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_tr_5,Lateral
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_c_min_1,1
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_c_max_1,2
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_c_struct_1,STN
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_c_min_2,2
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_c_max_2,3
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_c_struct_2,No STN
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_c_min_3,3
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_c_max_3,4
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_c_struct_3,No STN
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_a_min_1,0
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_a_max_1,1
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_a_struct_1,STN
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_a_min_2,-10
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_a_max_2,-7
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_a_struct_2,No STN
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_a_min_3,-7
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_a_max_3,-5
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_a_struct_3,"other, please specify:"
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_a_struct_other_3,VIM
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_p_min_1,5
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_p_max_1,6
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_p_struct_1,No STN
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_p_min_2,-2
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_p_max_2,-1
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_p_struct_2,STN
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_p_min_3,4
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_p_max_3,5
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_p_struct_3,No STN
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_m_min_1,3
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_m_max_1,4
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_m_struct_1,No STN
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_m_min_2,-1
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_m_max_2,0
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_m_struct_2,STN
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_m_min_3,-9
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_m_max_3,-8
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_m_struct_3,No STN
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_l_min_1,3
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_l_max_1,4
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_l_struct_1,No STN
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_l_min_2,4
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_l_max_2,5
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_l_struct_2,STN
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_l_min_3,-6
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_l_max_3,-4
+6,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_l_struct_3,No STN
+6,Intraoperative Data,Macro Stimulation Results,2,macro_aq_type,Intraoperative
+6,Intraoperative Data,Macro Stimulation Results,2,macro_hemisphere,Left
+6,Intraoperative Data,Macro Stimulation Results,2,macro_traj,Posterior
+6,Intraoperative Data,Macro Stimulation Results,2,macro_pos,-8
+6,Intraoperative Data,Macro Stimulation Results,2,macro_amp_add_1,1
+6,Intraoperative Data,Macro Stimulation Results,2,macro_add1_r,+-
+6,Intraoperative Data,Macro Stimulation Results,2,macro_add1_t,0
+6,Intraoperative Data,Macro Stimulation Results,2,macro_add1_rt,0
+6,Intraoperative Data,Macro Stimulation Results,2,macro_amp_add_2,3
+6,Intraoperative Data,Macro Stimulation Results,2,macro_add2_r,+
+6,Intraoperative Data,Macro Stimulation Results,2,macro_add2_rt,0
+6,Intraoperative Data,Macro Stimulation Results,2,macro_stimulation_results_complete,Complete
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_test_hemisphere,Right
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_test_bengun,x setup
+6,Intraoperative Data,Micro Electrode Recording Form,2,nr_stim,20
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_div_hide,no
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_tr_1,Anterior
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_a_min_1,-3
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_a_max_1,2
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_a_struct_1,STN
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_a_min_2,3
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_a_max_2,5
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_a_struct_2,No STN
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_a_min_3,3
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_a_max_3,6
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_a_struct_3,No STN
+6,Intraoperative Data,Micro Electrode Recording Form,2,micro_electrode_recording_form_complete,Complete
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_tr_2,Center
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_tr_3,Posterior
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_tr_4,Medial
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_tr_5,Lateral
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_c_min_1,0
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_c_max_1,1
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_c_struct_1,STN
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_c_min_2,2
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_c_max_2,3
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_c_struct_2,STN
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_c_min_3,4
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_c_max_3,5
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_c_struct_3,No STN
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_p_min_1,-10
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_p_max_1,-9
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_p_struct_1,No STN
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_p_min_2,-5
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_p_max_2,-4
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_p_struct_2,No STN
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_p_min_3,2
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_p_max_3,3
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_p_struct_3,STN
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_m_min_1,0
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_m_max_1,1
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_m_struct_1,STN
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_m_min_2,5
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_m_max_2,6
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_m_struct_2,No STN
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_m_min_3,4
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_m_max_3,5
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_m_struct_3,No STN
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_l_min_1,-7
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_l_max_1,-6
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_l_struct_1,No STN
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_l_min_2,-6
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_l_max_2,-3
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_l_struct_2,No STN
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_l_min_3,0
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_l_max_3,1
+6,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_l_struct_3,STN
+6,Intraoperative Data,Implanted Position,2,impl_pos_hemisphere,Right
+6,Intraoperative Data,Implanted Position,2,impl_pos_traj,Posterior
+6,Intraoperative Data,Implanted Position,2,impl_pos_pos,5
+6,Intraoperative Data,Implanted Position,2,impl_pos_lead_contact,8
+6,Intraoperative Data,Implanted Position,2,impl_pos_contact_border,Distal (Lower)
+6,Intraoperative Data,Implanted Position,2,implanted_position_complete,Complete
+6,Intraoperative Data,Macro Stimulation Results,3,macro_aq_type,Intraoperative
+6,Intraoperative Data,Macro Stimulation Results,3,macro_hemisphere,Right
+6,Intraoperative Data,Macro Stimulation Results,3,macro_traj,Center
+6,Intraoperative Data,Macro Stimulation Results,3,macro_pos,-4
+6,Intraoperative Data,Macro Stimulation Results,3,macro_amp_add_1,1.6
+6,Intraoperative Data,Macro Stimulation Results,3,macro_add1_r,+++
+6,Intraoperative Data,Macro Stimulation Results,3,macro_add1_t,0
+6,Intraoperative Data,Macro Stimulation Results,3,macro_add1_rt,++++
+6,Intraoperative Data,Macro Stimulation Results,3,macro_amp_add_2,3
+6,Intraoperative Data,Macro Stimulation Results,3,macro_add2_r,+
+6,Intraoperative Data,Macro Stimulation Results,3,macro_add2_t,++
+6,Intraoperative Data,Macro Stimulation Results,3,macro_add2_rt,0
+6,Intraoperative Data,Macro Stimulation Results,3,macro_stimulation_results_complete,Complete
+6,Intraoperative Data,Macro Stimulation Results,4,macro_aq_type,Intraoperative
+6,Intraoperative Data,Macro Stimulation Results,4,macro_hemisphere,Right
+6,Intraoperative Data,Macro Stimulation Results,4,macro_traj,Posterior
+6,Intraoperative Data,Macro Stimulation Results,4,macro_pos,0
+6,Intraoperative Data,Macro Stimulation Results,4,macro_amp_add_1,0.6
+6,Intraoperative Data,Macro Stimulation Results,4,macro_add1_r,+-
+6,Intraoperative Data,Macro Stimulation Results,4,macro_add1_t,++
+6,Intraoperative Data,Macro Stimulation Results,4,macro_add1_rt,++
+6,Intraoperative Data,Macro Stimulation Results,4,macro_amp_add_2,3
+6,Intraoperative Data,Macro Stimulation Results,4,macro_add2_se,PYRamidal
+6,Intraoperative Data,Macro Stimulation Results,4,macro_stimulation_results_complete,Complete
+6,Postoperative Data,Clinical Data,1,clin_aq_type,Postoperative
+6,Postoperative Data,Clinical Data,1,clin_aq_date,2024-02-09
+6,Postoperative Data,Clinical Data,1,pd_ldd,1
+6,Postoperative Data,Clinical Data,1,et_dose_primidone,1
+6,Postoperative Data,Clinical Data,1,et_dose_propranolol,0
+6,Postoperative Data,Clinical Data,1,et_dose_gabapetin,0
+6,Postoperative Data,Clinical Data,1,et_dose_rivotril,0
+6,Postoperative Data,Clinical Data,1,et_dose_topamax,0
+6,Postoperative Data,Clinical Data,1,date_updrs,2024-02-09
+6,Postoperative Data,Clinical Data,1,updrs3_18_on,1
+6,Postoperative Data,Clinical Data,1,updrs3_18_off,3
+6,Postoperative Data,Clinical Data,1,updrs3_19_on,1
+6,Postoperative Data,Clinical Data,1,updrs3_19_off,3
+6,Postoperative Data,Clinical Data,1,updrs3_20_face_on,1
+6,Postoperative Data,Clinical Data,1,updrs3_20_face_off,3
+6,Postoperative Data,Clinical Data,1,updrs3_20_hand_r_on,0
+6,Postoperative Data,Clinical Data,1,updrs3_20_hand_r_off,4
+6,Postoperative Data,Clinical Data,1,updrs3_20_hand_l_on,0
+6,Postoperative Data,Clinical Data,1,updrs3_20_hand_l_off,2
+6,Postoperative Data,Clinical Data,1,updrs3_20_foot_r_on,0
+6,Postoperative Data,Clinical Data,1,updrs3_20_foot_r_off,2
+6,Postoperative Data,Clinical Data,1,updrs3_20_foot_l_on,1
+6,Postoperative Data,Clinical Data,1,updrs3_20_foot_l_off,4
+6,Postoperative Data,Clinical Data,1,updrs3_21_r_on,1
+6,Postoperative Data,Clinical Data,1,updrs3_21_r_off,3
+6,Postoperative Data,Clinical Data,1,updrs3_21_l_on,0
+6,Postoperative Data,Clinical Data,1,updrs3_21_l_off,2
+6,Postoperative Data,Clinical Data,1,updrs3_22_neck_on,2
+6,Postoperative Data,Clinical Data,1,updrs3_22_neck_off,3
+6,Postoperative Data,Clinical Data,1,updrs3_22_rue_on,1
+6,Postoperative Data,Clinical Data,1,updrs3_22_rue_off,3
+6,Postoperative Data,Clinical Data,1,updrs3_22_lue_on,1
+6,Postoperative Data,Clinical Data,1,updrs3_22_lue_off,4
+6,Postoperative Data,Clinical Data,1,updrs3_22_rle_on,0
+6,Postoperative Data,Clinical Data,1,updrs3_22_rle_off,2
+6,Postoperative Data,Clinical Data,1,updrs3_22_lle_on,0
+6,Postoperative Data,Clinical Data,1,updrs3_22_lle_off,2
+6,Postoperative Data,Clinical Data,1,updrs3_23_r_on,0
+6,Postoperative Data,Clinical Data,1,updrs3_23_r_off,4
+6,Postoperative Data,Clinical Data,1,updrs3_23_l_on,1
+6,Postoperative Data,Clinical Data,1,updrs3_23_l_off,4
+6,Postoperative Data,Clinical Data,1,updrs3_24_r_on,1
+6,Postoperative Data,Clinical Data,1,updrs3_24_r_off,4
+6,Postoperative Data,Clinical Data,1,updrs3_24_l_on,1
+6,Postoperative Data,Clinical Data,1,updrs3_24_l_off,2
+6,Postoperative Data,Clinical Data,1,updrs3_25_r_on,0
+6,Postoperative Data,Clinical Data,1,updrs3_25_r_off,2
+6,Postoperative Data,Clinical Data,1,updrs3_25_l_on,0
+6,Postoperative Data,Clinical Data,1,updrs3_25_l_off,3
+6,Postoperative Data,Clinical Data,1,updrs3_26_r_on,1
+6,Postoperative Data,Clinical Data,1,updrs3_26_r_off,3
+6,Postoperative Data,Clinical Data,1,updrs3_26_l_on,0
+6,Postoperative Data,Clinical Data,1,updrs3_26_l_off,2
+6,Postoperative Data,Clinical Data,1,updrs3_27_on,1
+6,Postoperative Data,Clinical Data,1,updrs3_27_off,3
+6,Postoperative Data,Clinical Data,1,updrs3_28_on,0
+6,Postoperative Data,Clinical Data,1,updrs3_28_off,4
+6,Postoperative Data,Clinical Data,1,updrs3_29_on,1
+6,Postoperative Data,Clinical Data,1,updrs3_29_off,2
+6,Postoperative Data,Clinical Data,1,updrs3_30_on,1
+6,Postoperative Data,Clinical Data,1,updrs3_30_off,2
+6,Postoperative Data,Clinical Data,1,updrs3_31_on,2
+6,Postoperative Data,Clinical Data,1,updrs3_31_off,3
+6,Postoperative Data,Clinical Data,1,updrs3_sum_on,18
+6,Postoperative Data,Clinical Data,1,updrs3_sum_off,78
+6,Postoperative Data,Clinical Data,1,updrs3_sum_on_2,18
+6,Postoperative Data,Clinical Data,1,updrs3_sum_off_2,78
+6,Postoperative Data,Clinical Data,1,updrs4_32,1
+6,Postoperative Data,Clinical Data,1,updrs4_33,1
+6,Postoperative Data,Clinical Data,1,updrs4_34,1
+6,Postoperative Data,Clinical Data,1,updrs4_35,0
+6,Postoperative Data,Clinical Data,1,updrs4_36,0
+6,Postoperative Data,Clinical Data,1,updrs4_37,0
+6,Postoperative Data,Clinical Data,1,updrs4_38,0
+6,Postoperative Data,Clinical Data,1,updrs4_39,1
+6,Postoperative Data,Clinical Data,1,updrs4_40,0
+6,Postoperative Data,Clinical Data,1,updrs4_41,1
+6,Postoperative Data,Clinical Data,1,updrs4_42,0
+6,Postoperative Data,Clinical Data,1,dyskinesia,no
+6,Postoperative Data,Clinical Data,1,dysarthria,no
+6,Postoperative Data,Clinical Data,1,dystonia,no
+6,Postoperative Data,Clinical Data,1,disturbed_vision,no
+6,Postoperative Data,Clinical Data,1,dizziness,no
+6,Postoperative Data,Clinical Data,1,mood_changes,no
+6,Postoperative Data,Clinical Data,1,paresthesia,no
+6,Postoperative Data,Clinical Data,1,ataxia,no
+6,Postoperative Data,Clinical Data,1,clinical_data_complete,Complete
+6,Postoperative Data,,,record_id,6
+6,Postoperative Data,Chronic Stimulation Parameters,1,chr_stim_params_hemisphere,Left
+6,Postoperative Data,Chronic Stimulation Parameters,1,impl_loc,STN
+6,Postoperative Data,Chronic Stimulation Parameters,1,voltage_or_current,Voltage
+6,Postoperative Data,Chronic Stimulation Parameters,1,polarity,Monopolar
+6,Postoperative Data,Chronic Stimulation Parameters,1,contact_0,ø
+6,Postoperative Data,Chronic Stimulation Parameters,1,contact_1,ø
+6,Postoperative Data,Chronic Stimulation Parameters,1,contact_2,+
+6,Postoperative Data,Chronic Stimulation Parameters,1,pw_2,60
+6,Postoperative Data,Chronic Stimulation Parameters,1,freq_2,130
+6,Postoperative Data,Chronic Stimulation Parameters,1,ampl_2,1
+6,Postoperative Data,Chronic Stimulation Parameters,1,contact_3,ø
+6,Postoperative Data,Chronic Stimulation Parameters,1,chronic_stimulation_parameters_complete,Complete
+6,Postoperative Data,Screening Stimulation Results,1,screening_aq_type,Postoperative (closest to one year follow-up)
+6,Postoperative Data,Screening Stimulation Results,1,screening_hemisphere,Left
+6,Postoperative Data,Screening Stimulation Results,1,screening_contact,0
+6,Postoperative Data,Screening Stimulation Results,1,screening_a0_r,0
+6,Postoperative Data,Screening Stimulation Results,1,screening_a0_a,0
+6,Postoperative Data,Screening Stimulation Results,1,screening_a0_a2,0
+6,Postoperative Data,Screening Stimulation Results,1,screening_a0_t,0
+6,Postoperative Data,Screening Stimulation Results,1,screening_a0_t2,0
+6,Postoperative Data,Screening Stimulation Results,1,screening_a0_c,Baseline
+6,Postoperative Data,Screening Stimulation Results,1,screening_a1_r,+
+6,Postoperative Data,Screening Stimulation Results,1,screening_a1_a,+
+6,Postoperative Data,Screening Stimulation Results,1,screening_a1_a2,0
+6,Postoperative Data,Screening Stimulation Results,1,screening_a1_t,++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a1_t2,0
+6,Postoperative Data,Screening Stimulation Results,1,screening_a13_r,+
+6,Postoperative Data,Screening Stimulation Results,1,screening_a13_a,+
+6,Postoperative Data,Screening Stimulation Results,1,screening_a13_a2,+
+6,Postoperative Data,Screening Stimulation Results,1,screening_a13_t,+
+6,Postoperative Data,Screening Stimulation Results,1,screening_a13_t2,+
+6,Postoperative Data,Screening Stimulation Results,1,screening_a16_r,++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a16_a,++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a16_a2,+
+6,Postoperative Data,Screening Stimulation Results,1,screening_a16_t,++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a16_t2,+
+6,Postoperative Data,Screening Stimulation Results,1,screening_a16_se,VEG: malaise / nausée
+6,Postoperative Data,Screening Stimulation Results,1,screening_a19_r,++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a19_a,++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a19_a2,++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a19_t,+++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a19_t2,+
+6,Postoperative Data,Screening Stimulation Results,1,screening_a22_r,++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a22_a,++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a22_a2,++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a22_t,++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a22_t2,+
+6,Postoperative Data,Screening Stimulation Results,1,screening_a22_se,VEG: sueur / rougeur
+6,Postoperative Data,Screening Stimulation Results,1,screening_a25_r,0
+6,Postoperative Data,Screening Stimulation Results,1,screening_a25_a,++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a25_a2,++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a25_t,+
+6,Postoperative Data,Screening Stimulation Results,1,screening_a25_t2,+
+6,Postoperative Data,Screening Stimulation Results,1,screening_a28_r,+++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a28_a,+++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a28_a2,+++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a28_t,++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a28_t2,+++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a31_r,+++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a31_a,+++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a31_a2,+++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a31_t,+++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a31_t2,+++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a34_r,+++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a34_a,+++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a34_a2,+++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a34_t,+++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a34_t2,+++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a37_r,++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a37_a,+++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a37_a2,++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a37_t,++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a37_t2,++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a37_se,PYRamidal
+6,Postoperative Data,Screening Stimulation Results,1,screening_a37_se,SENsitif
+6,Postoperative Data,Screening Stimulation Results,1,screening_a4_r,+++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a4_a,+++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a4_a2,+++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a4_t,+++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a4_t2,+++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a45_r,+++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a45_a,+++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a45_a2,+++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a45_t,+++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a45_t2,+++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a5_r,++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a5_a,+++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a5_a2,++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a5_t,++
+6,Postoperative Data,Screening Stimulation Results,1,screening_a5_t2,+++
+6,Postoperative Data,Screening Stimulation Results,1,screening_stimulation_results_complete,Complete
+6,Postoperative Data,Chronic Stimulation Parameters,2,chr_stim_params_hemisphere,Right
+6,Postoperative Data,Chronic Stimulation Parameters,2,impl_loc,STN
+6,Postoperative Data,Chronic Stimulation Parameters,2,voltage_or_current,Voltage
+6,Postoperative Data,Chronic Stimulation Parameters,2,polarity,Monopolar
+6,Postoperative Data,Chronic Stimulation Parameters,2,contact_0,+
+6,Postoperative Data,Chronic Stimulation Parameters,2,pw_0,60
+6,Postoperative Data,Chronic Stimulation Parameters,2,freq_0,130
+6,Postoperative Data,Chronic Stimulation Parameters,2,ampl_0,1.2
+6,Postoperative Data,Chronic Stimulation Parameters,2,contact_1,ø
+6,Postoperative Data,Chronic Stimulation Parameters,2,contact_2,ø
+6,Postoperative Data,Chronic Stimulation Parameters,2,contact_3,ø
+6,Postoperative Data,Chronic Stimulation Parameters,2,chronic_stimulation_parameters_complete,Complete
+6,Postoperative Data,Screening Stimulation Results,2,screening_aq_type,Postoperative (closest to one year follow-up)
+6,Postoperative Data,Screening Stimulation Results,2,screening_hemisphere,Right
+6,Postoperative Data,Screening Stimulation Results,2,screening_contact,2
+6,Postoperative Data,Screening Stimulation Results,2,screening_a0_r,+
+6,Postoperative Data,Screening Stimulation Results,2,screening_a0_a,+
+6,Postoperative Data,Screening Stimulation Results,2,screening_a0_a2,+
+6,Postoperative Data,Screening Stimulation Results,2,screening_a0_t,+
+6,Postoperative Data,Screening Stimulation Results,2,screening_a0_t2,+
+6,Postoperative Data,Screening Stimulation Results,2,screening_a0_c,Baseline
+6,Postoperative Data,Screening Stimulation Results,2,screening_a1_r,++
+6,Postoperative Data,Screening Stimulation Results,2,screening_a1_a,++
+6,Postoperative Data,Screening Stimulation Results,2,screening_a1_a2,++
+6,Postoperative Data,Screening Stimulation Results,2,screening_a1_t,++
+6,Postoperative Data,Screening Stimulation Results,2,screening_a1_t2,++
+6,Postoperative Data,Screening Stimulation Results,2,screening_a13_r,++
+6,Postoperative Data,Screening Stimulation Results,2,screening_a13_a,0
+6,Postoperative Data,Screening Stimulation Results,2,screening_a13_a2,++
+6,Postoperative Data,Screening Stimulation Results,2,screening_a13_t,+
+6,Postoperative Data,Screening Stimulation Results,2,screening_a13_t2,+
+6,Postoperative Data,Screening Stimulation Results,2,screening_a16_r,+++
+6,Postoperative Data,Screening Stimulation Results,2,screening_a16_a,+++
+6,Postoperative Data,Screening Stimulation Results,2,screening_a16_a2,+++
+6,Postoperative Data,Screening Stimulation Results,2,screening_a16_t,+++
+6,Postoperative Data,Screening Stimulation Results,2,screening_a16_t2,+++
+6,Postoperative Data,Screening Stimulation Results,2,screening_a19_r,++++
+6,Postoperative Data,Screening Stimulation Results,2,screening_a19_a,+++
+6,Postoperative Data,Screening Stimulation Results,2,screening_a19_a2,+++
+6,Postoperative Data,Screening Stimulation Results,2,screening_a19_t,++++
+6,Postoperative Data,Screening Stimulation Results,2,screening_a19_t2,+++
+6,Postoperative Data,Screening Stimulation Results,2,screening_a19_se,TOM: III ext
+6,Postoperative Data,Screening Stimulation Results,2,screening_a19_se,DYSatrie
+6,Postoperative Data,Screening Stimulation Results,2,screening_a19_se,PYRamidal
+6,Postoperative Data,Screening Stimulation Results,2,screening_stimulation_results_complete,Complete
+7,General Data,,,patient_id, 02-S-T_80_F_BBBB
+7,General Data,,,gen_consent_available,No
+7,General Data,,,age,80
+7,General Data,,,biological_sex,Female
+7,General Data,,,pathology,Essential Tremor
+7,General Data,,,first_symptom_occ,2000
+7,General Data,,,duration_disease,24
+7,General Data,,,surgery_date,2023-03-01
+7,General Data,,,patient_information_complete,Complete
+7,General Data,,,record_id,7
+7,General Data,,,clin_aq_type,Preoperative
+7,General Data,,,clin_aq_date,2023-02-27
+7,General Data,,,pd_ldd,2
+7,General Data,,,et_dose_primidone,1
+7,General Data,,,et_dose_propranolol,0
+7,General Data,,,et_dose_gabapetin,2
+7,General Data,,,et_dose_rivotril,0
+7,General Data,,,et_dose_topamax,0
+7,General Data,,,date_updrs,2023-02-27
+7,General Data,,,updrs3_18_on,2
+7,General Data,,,updrs3_19_on,2
+7,General Data,,,updrs3_20_face_on,3
+7,General Data,,,updrs3_20_hand_r_on,2
+7,General Data,,,updrs3_20_hand_l_on,4
+7,General Data,,,updrs3_20_foot_r_on,4
+7,General Data,,,updrs3_20_foot_l_on,3
+7,General Data,,,updrs3_21_r_on,3
+7,General Data,,,updrs3_21_l_on,2
+7,General Data,,,updrs3_22_neck_on,3
+7,General Data,,,updrs3_22_rue_on,4
+7,General Data,,,updrs3_22_lue_on,3
+7,General Data,,,updrs3_22_rle_on,2
+7,General Data,,,updrs3_22_lle_on,3
+7,General Data,,,updrs3_23_r_on,4
+7,General Data,,,updrs3_23_l_on,3
+7,General Data,,,updrs3_24_r_on,2
+7,General Data,,,updrs3_24_l_on,3
+7,General Data,,,updrs3_25_r_on,4
+7,General Data,,,updrs3_25_l_on,3
+7,General Data,,,updrs3_26_r_on,2
+7,General Data,,,updrs3_26_l_on,3
+7,General Data,,,updrs3_27_on,4
+7,General Data,,,updrs3_28_on,3
+7,General Data,,,updrs3_29_on,2
+7,General Data,,,updrs3_30_on,3
+7,General Data,,,updrs3_31_on,4
+7,General Data,,,updrs3_sum_on,80
+7,General Data,,,updrs3_sum_on_2,80
+7,General Data,,,updrs4_32,4
+7,General Data,,,updrs4_33,3
+7,General Data,,,updrs4_34,3
+7,General Data,,,updrs4_35,1
+7,General Data,,,updrs4_36,0
+7,General Data,,,updrs4_37,1
+7,General Data,,,updrs4_38,1
+7,General Data,,,updrs4_39,3
+7,General Data,,,updrs4_40,1
+7,General Data,,,updrs4_41,1
+7,General Data,,,updrs4_42,1
+7,General Data,,,dyskinesia,yes
+7,General Data,,,dysarthria,yes
+7,General Data,,,dystonia,yes
+7,General Data,,,disturbed_vision,no
+7,General Data,,,dizziness,no
+7,General Data,,,mood_changes,yes
+7,General Data,,,paresthesia,no
+7,General Data,,,ataxia,yes
+7,General Data,,,clinical_data_complete,Complete
+7,General Data,,,updrs3_sum_off_2,NAN
+7,Intraoperative Data,,,preop_ct,stereotactic
+7,Intraoperative Data,,,postop_ct,stereotactic
+7,Intraoperative Data,,,preop_mr,stereotactic
+7,Intraoperative Data,,,postop_mr,N/A
+7,Intraoperative Data,,,seq_preop_mr,T1
+7,Intraoperative Data,,,seq_preop_mr,T2
+7,Intraoperative Data,,,seq_preop_mr,WAIR
+7,Intraoperative Data,,,image_data_complete,Complete
+7,Intraoperative Data,,,record_id,7
+7,Intraoperative Data,,,iplan_planning_data,Yes
+7,Intraoperative Data,,,bilat_impl,Yes
+7,Intraoperative Data,,,bilat_which_first,Left
+7,Intraoperative Data,,,unilat_which_side,Left
+7,Intraoperative Data,,,target_structure,VIM
+7,Intraoperative Data,,,type_impl_electrode,Medtronic 3389
+7,Intraoperative Data,,,have_intraop_meas,Yes
+7,Intraoperative Data,,,st_coords_l_a,92
+7,Intraoperative Data,,,st_coords_l_b,108
+7,Intraoperative Data,,,st_coords_l_c,105
+7,Intraoperative Data,,,st_coords_l_d,102.5
+7,Intraoperative Data,,,st_coords_l_e,90
+7,Intraoperative Data,,,st_coords_r_a,88.5
+7,Intraoperative Data,,,st_coords_r_b,97
+7,Intraoperative Data,,,st_coords_r_c,100
+7,Intraoperative Data,,,st_coords_r_d,85
+7,Intraoperative Data,,,st_coords_r_e,89
+7,Intraoperative Data,,,targeting_information_complete,Complete
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_test_hemisphere,Left
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_test_bengun,+ setup
+7,Intraoperative Data,Micro Electrode Recording Form,1,nr_stim,3
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_div_hide,no
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_tr_1,Center
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_tr_2,Anterior
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_tr_3,Posterior
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_tr_4,Medial
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_tr_5,Lateral
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_c_min_1,1
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_c_max_1,2
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_c_struct_1,STN
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_c_min_2,3
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_c_max_2,4
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_c_struct_2,No STN
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_c_min_3,5
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_c_max_3,6
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_c_struct_3,No STN
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_a_min_1,-2
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_a_max_1,0
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_a_struct_1,STN
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_a_min_2,-1
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_a_max_2,0
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_a_struct_2,STN
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_a_min_3,2
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_a_max_3,3
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_a_struct_3,No STN
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_p_min_1,-10
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_p_max_1,-9
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_p_struct_1,No STN
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_p_min_2,-7
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_p_max_2,-6
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_p_struct_2,No STN
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_p_min_3,4
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_p_max_3,5
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_p_struct_3,No STN
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_m_min_1,-8
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_m_max_1,-7
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_m_struct_1,No STN
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_m_min_2,-3
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_m_max_2,-2
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_m_struct_2,STN
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_m_min_3,3
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_m_max_3,4
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_m_struct_3,No STN
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_l_min_1,0
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_l_max_1,1
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_l_struct_1,STN
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_l_min_2,1
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_l_max_2,2
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_l_struct_2,STN
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_l_min_3,2
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_l_max_3,3
+7,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_l_struct_3,STN
+7,Intraoperative Data,Micro Electrode Recording Form,1,micro_electrode_recording_form_complete,Complete
+7,Intraoperative Data,Macro Stimulation Results,1,macro_aq_type,Intraoperative
+7,Intraoperative Data,Macro Stimulation Results,1,macro_hemisphere,Left
+7,Intraoperative Data,Macro Stimulation Results,1,macro_traj,Anterior
+7,Intraoperative Data,Macro Stimulation Results,1,macro_pos,-5
+7,Intraoperative Data,Macro Stimulation Results,1,macro_amp_add_1,2
+7,Intraoperative Data,Macro Stimulation Results,1,macro_add1_r,++-
+7,Intraoperative Data,Macro Stimulation Results,1,macro_add1_t,+-
+7,Intraoperative Data,Macro Stimulation Results,1,macro_add1_rt,++
+7,Intraoperative Data,Macro Stimulation Results,1,macro_amp_add_2,3
+7,Intraoperative Data,Macro Stimulation Results,1,macro_add2_r,+++
+7,Intraoperative Data,Macro Stimulation Results,1,macro_add2_t,++
+7,Intraoperative Data,Macro Stimulation Results,1,macro_add2_se,TOM: fction
+7,Intraoperative Data,Macro Stimulation Results,1,macro_add2_se,TOM: III int
+7,Intraoperative Data,Macro Stimulation Results,1,macro_add2_se,TOM: III ext
+7,Intraoperative Data,Macro Stimulation Results,1,macro_add2_se,DYSatrie
+7,Intraoperative Data,Macro Stimulation Results,1,macro_add2_se,PYRamidal
+7,Intraoperative Data,Macro Stimulation Results,1,macro_add2_se,SENsitif
+7,Intraoperative Data,Macro Stimulation Results,1,macro_stimulation_results_complete,Complete
+7,Intraoperative Data,Implanted Position,1,impl_pos_hemisphere,Left
+7,Intraoperative Data,Implanted Position,1,impl_pos_traj,Center
+7,Intraoperative Data,Implanted Position,1,impl_pos_pos,-1
+7,Intraoperative Data,Implanted Position,1,impl_pos_lead_contact,2
+7,Intraoperative Data,Implanted Position,1,impl_pos_contact_border,Proximal (Upper)
+7,Intraoperative Data,Implanted Position,1,implanted_position_complete,Complete
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_test_hemisphere,Right
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_test_bengun,+ setup
+7,Intraoperative Data,Micro Electrode Recording Form,2,nr_stim,5
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_div_hide,no
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_tr_1,Center
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_tr_2,Anterior
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_tr_3,Posterior
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_tr_4,Medial
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_tr_5,Lateral
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_c_min_1,0
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_c_max_1,1
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_c_struct_1,STN
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_c_min_2,1
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_c_max_2,2
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_c_struct_2,STN
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_c_min_3,2
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_c_max_3,3
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_c_struct_3,No STN
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_a_min_1,-7
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_a_max_1,-6
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_a_struct_1,No STN
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_a_min_2,-6
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_a_max_2,-5
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_a_struct_2,No STN
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_a_min_3,-1
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_a_max_3,0
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_a_struct_3,STN
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_p_min_1,-5
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_p_max_1,-4
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_p_struct_1,No STN
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_p_min_2,-4
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_p_max_2,-3
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_p_struct_2,No STN
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_p_min_3,-3
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_p_max_3,-2
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_p_struct_3,STN
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_m_min_1,1
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_m_max_1,2
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_m_struct_1,STN
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_m_min_2,2
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_m_max_2,3
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_m_struct_2,STN
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_m_min_3,3
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_m_max_3,4
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_m_struct_3,No STN
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_l_min_1,-5
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_l_max_1,-4
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_l_struct_1,No STN
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_l_min_2,-4
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_l_max_2,-3
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_l_struct_2,No STN
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_l_min_3,-3
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_l_max_3,-2
+7,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_l_struct_3,STN
+7,Intraoperative Data,Micro Electrode Recording Form,2,micro_electrode_recording_form_complete,Complete
+7,Intraoperative Data,Macro Stimulation Results,2,macro_aq_type,Intraoperative
+7,Intraoperative Data,Macro Stimulation Results,2,macro_hemisphere,Left
+7,Intraoperative Data,Macro Stimulation Results,2,macro_traj,Medial
+7,Intraoperative Data,Macro Stimulation Results,2,macro_pos,4
+7,Intraoperative Data,Macro Stimulation Results,2,macro_amp_add_1,0.8
+7,Intraoperative Data,Macro Stimulation Results,2,macro_add1_r,++
+7,Intraoperative Data,Macro Stimulation Results,2,macro_add1_t,+++-
+7,Intraoperative Data,Macro Stimulation Results,2,macro_add1_rt,+++-
+7,Intraoperative Data,Macro Stimulation Results,2,macro_amp_add_2,3
+7,Intraoperative Data,Macro Stimulation Results,2,macro_add2_r,+++
+7,Intraoperative Data,Macro Stimulation Results,2,macro_add2_t,+++
+7,Intraoperative Data,Macro Stimulation Results,2,macro_add2_rt,+++
+7,Intraoperative Data,Macro Stimulation Results,2,macro_stimulation_results_complete,Complete
+7,Intraoperative Data,Implanted Position,2,impl_pos_hemisphere,Right
+7,Intraoperative Data,Implanted Position,2,impl_pos_traj,Posterior
+7,Intraoperative Data,Implanted Position,2,impl_pos_pos,2
+7,Intraoperative Data,Implanted Position,2,impl_pos_lead_contact,4
+7,Intraoperative Data,Implanted Position,2,impl_pos_contact_border,Distal (Lower)
+7,Intraoperative Data,Implanted Position,2,implanted_position_complete,Complete
+7,Intraoperative Data,Macro Stimulation Results,3,macro_aq_type,Intraoperative
+7,Intraoperative Data,Macro Stimulation Results,3,macro_hemisphere,Right
+7,Intraoperative Data,Macro Stimulation Results,3,macro_traj,Center
+7,Intraoperative Data,Macro Stimulation Results,3,macro_pos,-7
+7,Intraoperative Data,Macro Stimulation Results,3,macro_amp_add_1,2.2
+7,Intraoperative Data,Macro Stimulation Results,3,macro_add1_r,++++
+7,Intraoperative Data,Macro Stimulation Results,3,macro_add1_t,++++
+7,Intraoperative Data,Macro Stimulation Results,3,macro_add1_rt,++++
+7,Intraoperative Data,Macro Stimulation Results,3,macro_amp_add_2,3
+7,Intraoperative Data,Macro Stimulation Results,3,macro_add2_r,++++
+7,Intraoperative Data,Macro Stimulation Results,3,macro_add2_t,++++
+7,Intraoperative Data,Macro Stimulation Results,3,macro_add2_rt,++++
+7,Intraoperative Data,Macro Stimulation Results,3,macro_stimulation_results_complete,Complete
+7,Intraoperative Data,Macro Stimulation Results,4,macro_aq_type,Intraoperative
+7,Intraoperative Data,Macro Stimulation Results,4,macro_hemisphere,Right
+7,Intraoperative Data,Macro Stimulation Results,4,macro_traj,Lateral
+7,Intraoperative Data,Macro Stimulation Results,4,macro_pos,0
+7,Intraoperative Data,Macro Stimulation Results,4,macro_amp_add_1,1.6
+7,Intraoperative Data,Macro Stimulation Results,4,macro_add1_r,+++
+7,Intraoperative Data,Macro Stimulation Results,4,macro_add1_t,+++
+7,Intraoperative Data,Macro Stimulation Results,4,macro_add1_rt,+++
+7,Intraoperative Data,Macro Stimulation Results,4,macro_add1_se,VEG: sueur / rougeur
+7,Intraoperative Data,Macro Stimulation Results,4,macro_amp_add_2,3
+7,Intraoperative Data,Macro Stimulation Results,4,macro_add2_r,+++
+7,Intraoperative Data,Macro Stimulation Results,4,macro_add2_t,+++
+7,Intraoperative Data,Macro Stimulation Results,4,macro_add2_rt,+++
+7,Intraoperative Data,Macro Stimulation Results,4,macro_add2_se,VEG: malaise / nausée
+7,Intraoperative Data,Macro Stimulation Results,4,macro_add2_se,VEG: sueur / rougeur
+7,Intraoperative Data,Macro Stimulation Results,4,macro_stimulation_results_complete,Complete
+7,Postoperative Data,Clinical Data,1,clin_aq_type,Postoperative
+7,Postoperative Data,Clinical Data,1,clin_aq_date,2023-03-31
+7,Postoperative Data,Clinical Data,1,pd_ldd,0
+7,Postoperative Data,Clinical Data,1,et_dose_primidone,0
+7,Postoperative Data,Clinical Data,1,et_dose_propranolol,0
+7,Postoperative Data,Clinical Data,1,et_dose_gabapetin,0
+7,Postoperative Data,Clinical Data,1,et_dose_rivotril,0
+7,Postoperative Data,Clinical Data,1,et_dose_topamax,0
+7,Postoperative Data,Clinical Data,1,date_updrs,2023-03-31
+7,Postoperative Data,Clinical Data,1,updrs3_18_on,2
+7,Postoperative Data,Clinical Data,1,updrs3_18_off,3
+7,Postoperative Data,Clinical Data,1,updrs3_19_on,1
+7,Postoperative Data,Clinical Data,1,updrs3_19_off,4
+7,Postoperative Data,Clinical Data,1,updrs3_20_face_on,0
+7,Postoperative Data,Clinical Data,1,updrs3_20_face_off,3
+7,Postoperative Data,Clinical Data,1,updrs3_20_hand_r_on,1
+7,Postoperative Data,Clinical Data,1,updrs3_20_hand_r_off,2
+7,Postoperative Data,Clinical Data,1,updrs3_20_hand_l_on,2
+7,Postoperative Data,Clinical Data,1,updrs3_20_hand_l_off,3
+7,Postoperative Data,Clinical Data,1,updrs3_20_foot_r_on,1
+7,Postoperative Data,Clinical Data,1,updrs3_20_foot_r_off,4
+7,Postoperative Data,Clinical Data,1,updrs3_20_foot_l_on,0
+7,Postoperative Data,Clinical Data,1,updrs3_20_foot_l_off,3
+7,Postoperative Data,Clinical Data,1,updrs3_21_r_on,1
+7,Postoperative Data,Clinical Data,1,updrs3_21_r_off,2
+7,Postoperative Data,Clinical Data,1,updrs3_21_l_on,2
+7,Postoperative Data,Clinical Data,1,updrs3_21_l_off,3
+7,Postoperative Data,Clinical Data,1,updrs3_22_neck_on,1
+7,Postoperative Data,Clinical Data,1,updrs3_22_neck_off,4
+7,Postoperative Data,Clinical Data,1,updrs3_22_rue_on,0
+7,Postoperative Data,Clinical Data,1,updrs3_22_rue_off,3
+7,Postoperative Data,Clinical Data,1,updrs3_22_lue_on,1
+7,Postoperative Data,Clinical Data,1,updrs3_22_lue_off,2
+7,Postoperative Data,Clinical Data,1,updrs3_22_rle_on,2
+7,Postoperative Data,Clinical Data,1,updrs3_22_rle_off,3
+7,Postoperative Data,Clinical Data,1,updrs3_22_lle_on,1
+7,Postoperative Data,Clinical Data,1,updrs3_22_lle_off,4
+7,Postoperative Data,Clinical Data,1,updrs3_23_r_on,0
+7,Postoperative Data,Clinical Data,1,updrs3_23_r_off,3
+7,Postoperative Data,Clinical Data,1,updrs3_23_l_on,1
+7,Postoperative Data,Clinical Data,1,updrs3_23_l_off,2
+7,Postoperative Data,Clinical Data,1,updrs3_24_r_on,2
+7,Postoperative Data,Clinical Data,1,updrs3_24_r_off,3
+7,Postoperative Data,Clinical Data,1,updrs3_24_l_on,1
+7,Postoperative Data,Clinical Data,1,updrs3_24_l_off,4
+7,Postoperative Data,Clinical Data,1,updrs3_25_r_on,0
+7,Postoperative Data,Clinical Data,1,updrs3_25_r_off,3
+7,Postoperative Data,Clinical Data,1,updrs3_25_l_on,1
+7,Postoperative Data,Clinical Data,1,updrs3_25_l_off,2
+7,Postoperative Data,Clinical Data,1,updrs3_26_r_on,2
+7,Postoperative Data,Clinical Data,1,updrs3_26_r_off,3
+7,Postoperative Data,Clinical Data,1,updrs3_26_l_on,1
+7,Postoperative Data,Clinical Data,1,updrs3_26_l_off,4
+7,Postoperative Data,Clinical Data,1,updrs3_27_on,0
+7,Postoperative Data,Clinical Data,1,updrs3_27_off,3
+7,Postoperative Data,Clinical Data,1,updrs3_28_on,1
+7,Postoperative Data,Clinical Data,1,updrs3_28_off,2
+7,Postoperative Data,Clinical Data,1,updrs3_29_on,2
+7,Postoperative Data,Clinical Data,1,updrs3_29_off,3
+7,Postoperative Data,Clinical Data,1,updrs3_30_on,1
+7,Postoperative Data,Clinical Data,1,updrs3_30_off,4
+7,Postoperative Data,Clinical Data,1,updrs3_31_on,0
+7,Postoperative Data,Clinical Data,1,updrs3_31_off,3
+7,Postoperative Data,Clinical Data,1,updrs3_sum_on,27
+7,Postoperative Data,Clinical Data,1,updrs3_sum_off,82
+7,Postoperative Data,Clinical Data,1,updrs3_sum_on_2,27
+7,Postoperative Data,Clinical Data,1,updrs3_sum_off_2,82
+7,Postoperative Data,Clinical Data,1,updrs4_32,1
+7,Postoperative Data,Clinical Data,1,updrs4_33,1
+7,Postoperative Data,Clinical Data,1,updrs4_34,1
+7,Postoperative Data,Clinical Data,1,updrs4_35,0
+7,Postoperative Data,Clinical Data,1,updrs4_36,0
+7,Postoperative Data,Clinical Data,1,updrs4_37,0
+7,Postoperative Data,Clinical Data,1,updrs4_38,1
+7,Postoperative Data,Clinical Data,1,updrs4_39,1
+7,Postoperative Data,Clinical Data,1,updrs4_40,0
+7,Postoperative Data,Clinical Data,1,updrs4_41,0
+7,Postoperative Data,Clinical Data,1,updrs4_42,0
+7,Postoperative Data,Clinical Data,1,dyskinesia,no
+7,Postoperative Data,Clinical Data,1,dysarthria,no
+7,Postoperative Data,Clinical Data,1,dystonia,no
+7,Postoperative Data,Clinical Data,1,disturbed_vision,no
+7,Postoperative Data,Clinical Data,1,dizziness,no
+7,Postoperative Data,Clinical Data,1,mood_changes,no
+7,Postoperative Data,Clinical Data,1,paresthesia,no
+7,Postoperative Data,Clinical Data,1,ataxia,no
+7,Postoperative Data,Clinical Data,1,clinical_data_complete,Complete
+7,Postoperative Data,,,record_id,7
+7,Postoperative Data,Screening Stimulation Results,1,screening_aq_type,Postoperative (closest to one year follow-up)
+7,Postoperative Data,Screening Stimulation Results,1,screening_hemisphere,Left
+7,Postoperative Data,Screening Stimulation Results,1,screening_contact,2
+7,Postoperative Data,Screening Stimulation Results,1,screening_a0_r,0
+7,Postoperative Data,Screening Stimulation Results,1,screening_a0_a,0
+7,Postoperative Data,Screening Stimulation Results,1,screening_a0_a2,0
+7,Postoperative Data,Screening Stimulation Results,1,screening_a0_t,0
+7,Postoperative Data,Screening Stimulation Results,1,screening_a0_t2,0
+7,Postoperative Data,Screening Stimulation Results,1,screening_a0_c,Baseline
+7,Postoperative Data,Screening Stimulation Results,1,screening_a1_r,0
+7,Postoperative Data,Screening Stimulation Results,1,screening_a1_a,0
+7,Postoperative Data,Screening Stimulation Results,1,screening_a1_a2,0
+7,Postoperative Data,Screening Stimulation Results,1,screening_a1_t,0
+7,Postoperative Data,Screening Stimulation Results,1,screening_a1_t2,0
+7,Postoperative Data,Screening Stimulation Results,1,screening_a13_r,+
+7,Postoperative Data,Screening Stimulation Results,1,screening_a13_a,+
+7,Postoperative Data,Screening Stimulation Results,1,screening_a13_a2,+
+7,Postoperative Data,Screening Stimulation Results,1,screening_a13_t,+
+7,Postoperative Data,Screening Stimulation Results,1,screening_a13_t2,+
+7,Postoperative Data,Screening Stimulation Results,1,screening_a16_r,++
+7,Postoperative Data,Screening Stimulation Results,1,screening_a16_a,++
+7,Postoperative Data,Screening Stimulation Results,1,screening_a16_a2,++
+7,Postoperative Data,Screening Stimulation Results,1,screening_a16_t,++
+7,Postoperative Data,Screening Stimulation Results,1,screening_a16_t2,++
+7,Postoperative Data,Screening Stimulation Results,1,screening_a19_r,++
+7,Postoperative Data,Screening Stimulation Results,1,screening_a19_a,++
+7,Postoperative Data,Screening Stimulation Results,1,screening_a19_a2,++
+7,Postoperative Data,Screening Stimulation Results,1,screening_a19_t,++
+7,Postoperative Data,Screening Stimulation Results,1,screening_a19_t2,++
+7,Postoperative Data,Screening Stimulation Results,1,screening_a22_r,++
+7,Postoperative Data,Screening Stimulation Results,1,screening_a22_a,++
+7,Postoperative Data,Screening Stimulation Results,1,screening_a22_a2,++
+7,Postoperative Data,Screening Stimulation Results,1,screening_a22_t,++
+7,Postoperative Data,Screening Stimulation Results,1,screening_a22_t2,++
+7,Postoperative Data,Screening Stimulation Results,1,screening_a25_se,PYRamidal
+7,Postoperative Data,Screening Stimulation Results,1,screening_a25_se,SENsitif
+7,Postoperative Data,Screening Stimulation Results,1,screening_a25_se,VEG: malaise / nausée
+7,Postoperative Data,Screening Stimulation Results,1,screening_stimulation_results_complete,Complete
+7,Postoperative Data,Chronic Stimulation Parameters,1,chr_stim_params_hemisphere,Left
+7,Postoperative Data,Chronic Stimulation Parameters,1,impl_loc,VIM
+7,Postoperative Data,Chronic Stimulation Parameters,1,voltage_or_current,Voltage
+7,Postoperative Data,Chronic Stimulation Parameters,1,polarity,Monopolar
+7,Postoperative Data,Chronic Stimulation Parameters,1,contact_0,ø
+7,Postoperative Data,Chronic Stimulation Parameters,1,contact_1,+
+7,Postoperative Data,Chronic Stimulation Parameters,1,pw_1,60
+7,Postoperative Data,Chronic Stimulation Parameters,1,freq_1,130
+7,Postoperative Data,Chronic Stimulation Parameters,1,ampl_1,2
+7,Postoperative Data,Chronic Stimulation Parameters,1,contact_2,ø
+7,Postoperative Data,Chronic Stimulation Parameters,1,contact_3,ø
+7,Postoperative Data,Chronic Stimulation Parameters,1,chronic_stimulation_parameters_complete,Complete
+7,Postoperative Data,Screening Stimulation Results,2,screening_aq_type,Postoperative (closest to one year follow-up)
+7,Postoperative Data,Screening Stimulation Results,2,screening_hemisphere,Right
+7,Postoperative Data,Screening Stimulation Results,2,screening_contact,3
+7,Postoperative Data,Screening Stimulation Results,2,screening_a0_r,0
+7,Postoperative Data,Screening Stimulation Results,2,screening_a0_a,0
+7,Postoperative Data,Screening Stimulation Results,2,screening_a0_a2,0
+7,Postoperative Data,Screening Stimulation Results,2,screening_a0_t,0
+7,Postoperative Data,Screening Stimulation Results,2,screening_a0_t2,0
+7,Postoperative Data,Screening Stimulation Results,2,screening_a0_c,Baseline
+7,Postoperative Data,Screening Stimulation Results,2,screening_a1_r,+
+7,Postoperative Data,Screening Stimulation Results,2,screening_a1_a,0
+7,Postoperative Data,Screening Stimulation Results,2,screening_a1_a2,0
+7,Postoperative Data,Screening Stimulation Results,2,screening_a1_t,0
+7,Postoperative Data,Screening Stimulation Results,2,screening_a1_t2,0
+7,Postoperative Data,Screening Stimulation Results,2,screening_a13_r,+
+7,Postoperative Data,Screening Stimulation Results,2,screening_a13_a,+
+7,Postoperative Data,Screening Stimulation Results,2,screening_a13_a2,+
+7,Postoperative Data,Screening Stimulation Results,2,screening_a13_t,0
+7,Postoperative Data,Screening Stimulation Results,2,screening_a13_t2,0
+7,Postoperative Data,Screening Stimulation Results,2,screening_a16_r,+
+7,Postoperative Data,Screening Stimulation Results,2,screening_a16_a,+
+7,Postoperative Data,Screening Stimulation Results,2,screening_a16_a2,+
+7,Postoperative Data,Screening Stimulation Results,2,screening_a16_t,+
+7,Postoperative Data,Screening Stimulation Results,2,screening_a16_t2,+
+7,Postoperative Data,Screening Stimulation Results,2,screening_a19_r,++
+7,Postoperative Data,Screening Stimulation Results,2,screening_a19_a,+
+7,Postoperative Data,Screening Stimulation Results,2,screening_a19_a2,++
+7,Postoperative Data,Screening Stimulation Results,2,screening_a19_t,+
+7,Postoperative Data,Screening Stimulation Results,2,screening_a19_t2,++
+7,Postoperative Data,Screening Stimulation Results,2,screening_a22_r,+
+7,Postoperative Data,Screening Stimulation Results,2,screening_a22_a,++
+7,Postoperative Data,Screening Stimulation Results,2,screening_a22_a2,+
+7,Postoperative Data,Screening Stimulation Results,2,screening_a22_t,++
+7,Postoperative Data,Screening Stimulation Results,2,screening_a22_t2,+
+7,Postoperative Data,Screening Stimulation Results,2,screening_a25_r,++
+7,Postoperative Data,Screening Stimulation Results,2,screening_a25_a,++
+7,Postoperative Data,Screening Stimulation Results,2,screening_a25_a2,+++
+7,Postoperative Data,Screening Stimulation Results,2,screening_a25_t,++
+7,Postoperative Data,Screening Stimulation Results,2,screening_a25_t2,++
+7,Postoperative Data,Screening Stimulation Results,2,screening_a28_r,++
+7,Postoperative Data,Screening Stimulation Results,2,screening_a28_a,++
+7,Postoperative Data,Screening Stimulation Results,2,screening_a28_a2,++
+7,Postoperative Data,Screening Stimulation Results,2,screening_a28_t,++
+7,Postoperative Data,Screening Stimulation Results,2,screening_a28_t2,++
+7,Postoperative Data,Screening Stimulation Results,2,screening_a31_r,+++
+7,Postoperative Data,Screening Stimulation Results,2,screening_a31_a,+++
+7,Postoperative Data,Screening Stimulation Results,2,screening_a31_a2,+++
+7,Postoperative Data,Screening Stimulation Results,2,screening_a31_t,+++
+7,Postoperative Data,Screening Stimulation Results,2,screening_a31_t2,+++
+7,Postoperative Data,Screening Stimulation Results,2,screening_a34_r,+++
+7,Postoperative Data,Screening Stimulation Results,2,screening_a34_a,+++
+7,Postoperative Data,Screening Stimulation Results,2,screening_a34_a2,+++
+7,Postoperative Data,Screening Stimulation Results,2,screening_a34_t,+++
+7,Postoperative Data,Screening Stimulation Results,2,screening_a34_t2,+++
+7,Postoperative Data,Screening Stimulation Results,2,screening_a37_se,TOM: III int
+7,Postoperative Data,Screening Stimulation Results,2,screening_a37_se,PYRamidal
+7,Postoperative Data,Screening Stimulation Results,2,screening_a4_se,PYRamidal
+7,Postoperative Data,Screening Stimulation Results,2,screening_a4_se,SENsitif
+7,Postoperative Data,Screening Stimulation Results,2,screening_a4_se,VEG: malaise / nausée
+7,Postoperative Data,Screening Stimulation Results,2,screening_stimulation_results_complete,Complete
+7,Postoperative Data,Chronic Stimulation Parameters,2,chr_stim_params_hemisphere,Right
+7,Postoperative Data,Chronic Stimulation Parameters,2,impl_loc,ZI
+7,Postoperative Data,Chronic Stimulation Parameters,2,voltage_or_current,Voltage
+7,Postoperative Data,Chronic Stimulation Parameters,2,polarity,Bipolar
+7,Postoperative Data,Chronic Stimulation Parameters,2,contact_0,+
+7,Postoperative Data,Chronic Stimulation Parameters,2,pw_0,60
+7,Postoperative Data,Chronic Stimulation Parameters,2,freq_0,130
+7,Postoperative Data,Chronic Stimulation Parameters,2,ampl_0,1.5
+7,Postoperative Data,Chronic Stimulation Parameters,2,contact_1,+
+7,Postoperative Data,Chronic Stimulation Parameters,2,pw_1,60
+7,Postoperative Data,Chronic Stimulation Parameters,2,freq_1,130
+7,Postoperative Data,Chronic Stimulation Parameters,2,ampl_1,0.5
+7,Postoperative Data,Chronic Stimulation Parameters,2,contact_2,ø
+7,Postoperative Data,Chronic Stimulation Parameters,2,contact_3,ø
+7,Postoperative Data,Chronic Stimulation Parameters,2,chronic_stimulation_parameters_complete,Complete
+8,General Data,,,patient_id, 03-S-P_63_M_CCCC
+8,General Data,,,gen_consent_available,No
+8,General Data,,,age,63
+8,General Data,,,biological_sex,Male
+8,General Data,,,pathology,Parkinson
+8,General Data,,,first_symptom_occ,2020
+8,General Data,,,duration_disease,4
+8,General Data,,,surgery_date,2024-06-06
+8,General Data,,,patient_information_complete,Complete
+8,General Data,,,record_id,8
+8,General Data,,,clin_aq_type,Preoperative
+8,General Data,,,clin_aq_date,2024-06-05
+8,General Data,,,pd_ldd,5
+8,General Data,,,et_dose_primidone,5
+8,General Data,,,et_dose_propranolol,5
+8,General Data,,,et_dose_gabapetin,5
+8,General Data,,,et_dose_rivotril,5
+8,General Data,,,et_dose_topamax,5
+8,General Data,,,date_updrs,2024-06-05
+8,General Data,,,updrs3_18_on,4
+8,General Data,,,updrs3_19_on,3
+8,General Data,,,updrs3_20_face_on,4
+8,General Data,,,updrs3_20_hand_r_on,4
+8,General Data,,,updrs3_20_hand_l_on,3
+8,General Data,,,updrs3_20_foot_r_on,4
+8,General Data,,,updrs3_20_foot_l_on,3
+8,General Data,,,updrs3_21_r_on,4
+8,General Data,,,updrs3_21_l_on,3
+8,General Data,,,updrs3_22_neck_on,4
+8,General Data,,,updrs3_22_rue_on,3
+8,General Data,,,updrs3_22_lue_on,4
+8,General Data,,,updrs3_22_rle_on,3
+8,General Data,,,updrs3_22_lle_on,4
+8,General Data,,,updrs3_23_r_on,3
+8,General Data,,,updrs3_23_l_on,4
+8,General Data,,,updrs3_24_r_on,3
+8,General Data,,,updrs3_24_l_on,4
+8,General Data,,,updrs3_25_r_on,3
+8,General Data,,,updrs3_25_l_on,4
+8,General Data,,,updrs3_26_r_on,3
+8,General Data,,,updrs3_26_l_on,4
+8,General Data,,,updrs3_27_on,3
+8,General Data,,,updrs3_28_on,4
+8,General Data,,,updrs3_29_on,3
+8,General Data,,,updrs3_30_on,4
+8,General Data,,,updrs3_31_on,3
+8,General Data,,,updrs3_sum_on,95
+8,General Data,,,updrs3_sum_on_2,95
+8,General Data,,,updrs4_32,4
+8,General Data,,,updrs4_33,4
+8,General Data,,,updrs4_34,4
+8,General Data,,,updrs4_36,0
+8,General Data,,,updrs4_37,1
+8,General Data,,,updrs4_38,1
+8,General Data,,,updrs4_39,4
+8,General Data,,,updrs4_40,1
+8,General Data,,,updrs4_41,1
+8,General Data,,,updrs4_42,1
+8,General Data,,,dyskinesia,yes
+8,General Data,,,dysarthria,yes
+8,General Data,,,dystonia,yes
+8,General Data,,,disturbed_vision,yes
+8,General Data,,,dizziness,yes
+8,General Data,,,mood_changes,no
+8,General Data,,,paresthesia,yes
+8,General Data,,,ataxia,yes
+8,General Data,,,clinical_data_complete,Complete
+8,General Data,,,updrs4_35,1
+8,General Data,,,updrs3_sum_off_2,NAN
+8,Intraoperative Data,,,iplan_planning_data,Yes
+8,Intraoperative Data,,,preop_ct,N/A
+8,Intraoperative Data,,,postop_ct,stereotactic
+8,Intraoperative Data,,,preop_mr,non-stereotactic
+8,Intraoperative Data,,,postop_mr,N/A
+8,Intraoperative Data,,,seq_preop_mr,T1
+8,Intraoperative Data,,,seq_preop_mr,WAIR
+8,Intraoperative Data,,,seq_preop_mr,DTI
+8,Intraoperative Data,,,image_data_complete,Complete
+8,Intraoperative Data,,,record_id,8
+8,Intraoperative Data,,,bilat_impl,Yes
+8,Intraoperative Data,,,bilat_which_first,Left
+8,Intraoperative Data,,,unilat_which_side,Left
+8,Intraoperative Data,,,target_structure,STN
+8,Intraoperative Data,,,type_impl_electrode,Abbott SJM 6170
+8,Intraoperative Data,,,have_intraop_meas,Yes
+8,Intraoperative Data,,,st_coords_l_a,97
+8,Intraoperative Data,,,st_coords_l_b,110
+8,Intraoperative Data,,,st_coords_l_c,101
+8,Intraoperative Data,,,st_coords_l_d,56
+8,Intraoperative Data,,,st_coords_l_e,77
+8,Intraoperative Data,,,stim_coords_roll_l,40
+8,Intraoperative Data,,,st_coords_r_a,102.5
+8,Intraoperative Data,,,st_coords_r_b,104
+8,Intraoperative Data,,,st_coords_r_c,90
+8,Intraoperative Data,,,st_coords_r_d,78
+8,Intraoperative Data,,,st_coords_r_e,90
+8,Intraoperative Data,,,stim_coords_roll_r,40
+8,Intraoperative Data,,,targeting_information_complete,Complete
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_test_hemisphere,Left
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_test_bengun,x setup
+8,Intraoperative Data,Micro Electrode Recording Form,1,nr_stim,10
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_div_hide,no
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_tr_1,Center
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_tr_2,Anterior
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_tr_3,Posterior
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_tr_4,Medial
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_tr_5,Lateral
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_c_min_1,0
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_c_max_1,1
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_c_struct_1,STN
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_c_min_2,1
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_c_max_2,2
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_c_struct_2,STN
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_c_min_3,2
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_c_max_3,3
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_c_struct_3,No STN
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_a_min_1,-2
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_a_max_1,-1
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_a_struct_1,No STN
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_a_min_2,-1
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_a_max_2,0
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_a_struct_2,STN
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_a_min_3,0
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_a_max_3,1
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_a_struct_3,STN
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_p_min_1,2
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_p_max_1,3
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_p_struct_1,No STN
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_p_min_2,3
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_p_max_2,4
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_p_struct_2,No STN
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_p_min_3,4
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_p_max_3,5
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_p_struct_3,No STN
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_m_min_1,-10
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_m_max_1,-9
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_m_struct_1,No STN
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_m_min_2,-9
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_m_max_2,-8
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_m_struct_2,No STN
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_m_min_3,-8
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_m_max_3,-7
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_m_struct_3,No STN
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_l_min_1,-3
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_l_max_1,-2
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_l_struct_1,No STN
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_l_min_2,-2
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_l_max_2,-1
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_l_struct_2,No STN
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_l_min_3,-1
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_l_max_3,0
+8,Intraoperative Data,Micro Electrode Recording Form,1,mer_rec_l_struct_3,STN
+8,Intraoperative Data,Micro Electrode Recording Form,1,micro_electrode_recording_form_complete,Complete
+8,Intraoperative Data,Macro Stimulation Results,1,macro_aq_type,Intraoperative
+8,Intraoperative Data,Macro Stimulation Results,1,macro_hemisphere,Left
+8,Intraoperative Data,Macro Stimulation Results,1,macro_traj,Center
+8,Intraoperative Data,Macro Stimulation Results,1,macro_pos,3
+8,Intraoperative Data,Macro Stimulation Results,1,macro_amp_add_1,1.2
+8,Intraoperative Data,Macro Stimulation Results,1,macro_add1_r,++
+8,Intraoperative Data,Macro Stimulation Results,1,macro_add1_t,++
+8,Intraoperative Data,Macro Stimulation Results,1,macro_add1_rt,++
+8,Intraoperative Data,Macro Stimulation Results,1,macro_amp_add_2,3
+8,Intraoperative Data,Macro Stimulation Results,1,macro_add2_se,SENsitif
+8,Intraoperative Data,Macro Stimulation Results,1,macro_add2_se,VEG: malaise / nausée
+8,Intraoperative Data,Macro Stimulation Results,1,macro_stimulation_results_complete,Complete
+8,Intraoperative Data,Implanted Position,1,impl_pos_hemisphere,Left
+8,Intraoperative Data,Implanted Position,1,impl_pos_traj,Posterior
+8,Intraoperative Data,Implanted Position,1,impl_pos_pos,-8
+8,Intraoperative Data,Implanted Position,1,impl_pos_lead_contact,4
+8,Intraoperative Data,Implanted Position,1,impl_pos_contact_border,Milieu (Middle)
+8,Intraoperative Data,Implanted Position,1,implanted_position_complete,Complete
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_test_hemisphere,Right
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_test_bengun,+ setup
+8,Intraoperative Data,Micro Electrode Recording Form,2,nr_stim,16
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_div_hide,no
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_tr_1,Center
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_tr_2,Anterior
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_tr_3,Posterior
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_tr_4,Medial
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_tr_5,Lateral
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_c_min_1,0
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_c_max_1,1
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_c_struct_1,STN
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_c_min_2,1
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_c_max_2,2
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_c_struct_2,STN
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_c_min_3,2
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_c_max_3,3
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_c_struct_3,No STN
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_a_min_1,-4
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_a_max_1,-3
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_a_struct_1,No STN
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_a_min_2,-3
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_a_max_2,-2
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_a_struct_2,No STN
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_a_min_3,-2
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_a_max_3,-1
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_a_struct_3,STN
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_p_min_1,-3
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_p_max_1,-2
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_p_struct_1,No STN
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_p_min_2,-4
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_p_max_2,-3
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_p_struct_2,No STN
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_p_min_3,-5
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_p_max_3,-4
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_p_struct_3,No STN
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_m_min_1,-6
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_m_max_1,-5
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_m_struct_1,No STN
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_m_min_2,0
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_m_max_2,1
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_m_struct_2,STN
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_m_min_3,2
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_m_max_3,3
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_m_struct_3,STN
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_l_min_1,-8
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_l_max_1,-7
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_l_struct_1,No STN
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_l_min_2,-7
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_l_max_2,-6
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_l_struct_2,No STN
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_l_min_3,-6
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_l_max_3,-5
+8,Intraoperative Data,Micro Electrode Recording Form,2,mer_rec_l_struct_3,No STN
+8,Intraoperative Data,Micro Electrode Recording Form,2,micro_electrode_recording_form_complete,Complete
+8,Intraoperative Data,Macro Stimulation Results,2,macro_aq_type,Intraoperative
+8,Intraoperative Data,Macro Stimulation Results,2,macro_hemisphere,Left
+8,Intraoperative Data,Macro Stimulation Results,2,macro_traj,Anterior
+8,Intraoperative Data,Macro Stimulation Results,2,macro_pos,6
+8,Intraoperative Data,Macro Stimulation Results,2,macro_amp_add_1,2
+8,Intraoperative Data,Macro Stimulation Results,2,macro_add1_r,+++
+8,Intraoperative Data,Macro Stimulation Results,2,macro_add1_t,++-
+8,Intraoperative Data,Macro Stimulation Results,2,macro_add1_rt,+++
+8,Intraoperative Data,Macro Stimulation Results,2,macro_amp_add_2,2.8
+8,Intraoperative Data,Macro Stimulation Results,2,macro_add2_se,VEG: malaise / nausée
+8,Intraoperative Data,Macro Stimulation Results,2,macro_add2_se,VEG: sueur / rougeur
+8,Intraoperative Data,Macro Stimulation Results,2,macro_add2_se,DYSKinésie
+8,Intraoperative Data,Macro Stimulation Results,2,macro_stimulation_results_complete,Complete
+8,Intraoperative Data,Implanted Position,2,impl_pos_hemisphere,Right
+8,Intraoperative Data,Implanted Position,2,impl_pos_traj,Lateral
+8,Intraoperative Data,Implanted Position,2,impl_pos_pos,6
+8,Intraoperative Data,Implanted Position,2,impl_pos_lead_contact,3
+8,Intraoperative Data,Implanted Position,2,impl_pos_contact_border,Proximal (Upper)
+8,Intraoperative Data,Implanted Position,2,implanted_position_complete,Complete
+8,Intraoperative Data,Macro Stimulation Results,3,macro_aq_type,Intraoperative
+8,Intraoperative Data,Macro Stimulation Results,3,macro_hemisphere,Right
+8,Intraoperative Data,Macro Stimulation Results,3,macro_traj,Medial
+8,Intraoperative Data,Macro Stimulation Results,3,macro_pos,-8
+8,Intraoperative Data,Macro Stimulation Results,3,macro_amp_add_1,1.4
+8,Intraoperative Data,Macro Stimulation Results,3,macro_add1_r,+++-
+8,Intraoperative Data,Macro Stimulation Results,3,macro_add1_t,+++-
+8,Intraoperative Data,Macro Stimulation Results,3,macro_add1_rt,+++-
+8,Intraoperative Data,Macro Stimulation Results,3,macro_amp_add_2,3
+8,Intraoperative Data,Macro Stimulation Results,3,macro_add2_r,+++
+8,Intraoperative Data,Macro Stimulation Results,3,macro_add2_t,+++
+8,Intraoperative Data,Macro Stimulation Results,3,macro_add2_rt,+++
+8,Intraoperative Data,Macro Stimulation Results,3,macro_stimulation_results_complete,Complete
+8,Intraoperative Data,Macro Stimulation Results,4,macro_aq_type,Intraoperative
+8,Intraoperative Data,Macro Stimulation Results,4,macro_hemisphere,Right
+8,Intraoperative Data,Macro Stimulation Results,4,macro_traj,Posterior
+8,Intraoperative Data,Macro Stimulation Results,4,macro_pos,5
+8,Intraoperative Data,Macro Stimulation Results,4,macro_amp_add_1,1
+8,Intraoperative Data,Macro Stimulation Results,4,macro_add1_r,+++
+8,Intraoperative Data,Macro Stimulation Results,4,macro_add1_t,+++-
+8,Intraoperative Data,Macro Stimulation Results,4,macro_add1_rt,+++
+8,Intraoperative Data,Macro Stimulation Results,4,macro_amp_add_2,2
+8,Intraoperative Data,Macro Stimulation Results,4,macro_add2_se,TOM: III int
+8,Intraoperative Data,Macro Stimulation Results,4,macro_add2_se,TOM: III ext
+8,Intraoperative Data,Macro Stimulation Results,4,macro_add2_se,DYSatrie
+8,Intraoperative Data,Macro Stimulation Results,4,macro_stimulation_results_complete,Complete
+8,Postoperative Data,Clinical Data,1,clin_aq_type,Postoperative
+8,Postoperative Data,Clinical Data,1,clin_aq_date,2024-07-01
+8,Postoperative Data,Clinical Data,1,pd_ldd,2
+8,Postoperative Data,Clinical Data,1,et_dose_primidone,0
+8,Postoperative Data,Clinical Data,1,et_dose_propranolol,0
+8,Postoperative Data,Clinical Data,1,et_dose_gabapetin,0
+8,Postoperative Data,Clinical Data,1,et_dose_rivotril,0
+8,Postoperative Data,Clinical Data,1,et_dose_topamax,0
+8,Postoperative Data,Clinical Data,1,date_updrs,2024-07-01
+8,Postoperative Data,Clinical Data,1,updrs3_18_on,1
+8,Postoperative Data,Clinical Data,1,updrs3_18_off,3
+8,Postoperative Data,Clinical Data,1,updrs3_19_on,1
+8,Postoperative Data,Clinical Data,1,updrs3_19_off,3
+8,Postoperative Data,Clinical Data,1,updrs3_20_face_on,1
+8,Postoperative Data,Clinical Data,1,updrs3_20_face_off,3
+8,Postoperative Data,Clinical Data,1,updrs3_20_hand_r_on,1
+8,Postoperative Data,Clinical Data,1,updrs3_20_hand_r_off,3
+8,Postoperative Data,Clinical Data,1,updrs3_20_hand_l_on,1
+8,Postoperative Data,Clinical Data,1,updrs3_20_hand_l_off,4
+8,Postoperative Data,Clinical Data,1,updrs3_20_foot_r_on,1
+8,Postoperative Data,Clinical Data,1,updrs3_20_foot_r_off,3
+8,Postoperative Data,Clinical Data,1,updrs3_20_foot_l_on,1
+8,Postoperative Data,Clinical Data,1,updrs3_20_foot_l_off,4
+8,Postoperative Data,Clinical Data,1,updrs3_21_r_on,0
+8,Postoperative Data,Clinical Data,1,updrs3_21_r_off,3
+8,Postoperative Data,Clinical Data,1,updrs3_21_l_on,1
+8,Postoperative Data,Clinical Data,1,updrs3_21_l_off,4
+8,Postoperative Data,Clinical Data,1,updrs3_22_neck_on,0
+8,Postoperative Data,Clinical Data,1,updrs3_22_neck_off,4
+8,Postoperative Data,Clinical Data,1,updrs3_22_rue_on,1
+8,Postoperative Data,Clinical Data,1,updrs3_22_rue_off,4
+8,Postoperative Data,Clinical Data,1,updrs3_22_lue_on,1
+8,Postoperative Data,Clinical Data,1,updrs3_22_lue_off,4
+8,Postoperative Data,Clinical Data,1,updrs3_22_rle_on,1
+8,Postoperative Data,Clinical Data,1,updrs3_22_rle_off,3
+8,Postoperative Data,Clinical Data,1,updrs3_22_lle_on,1
+8,Postoperative Data,Clinical Data,1,updrs3_22_lle_off,3
+8,Postoperative Data,Clinical Data,1,updrs3_23_r_on,1
+8,Postoperative Data,Clinical Data,1,updrs3_23_r_off,4
+8,Postoperative Data,Clinical Data,1,updrs3_23_l_on,1
+8,Postoperative Data,Clinical Data,1,updrs3_23_l_off,3
+8,Postoperative Data,Clinical Data,1,updrs3_24_r_on,1
+8,Postoperative Data,Clinical Data,1,updrs3_24_r_off,4
+8,Postoperative Data,Clinical Data,1,updrs3_24_l_on,1
+8,Postoperative Data,Clinical Data,1,updrs3_24_l_off,3
+8,Postoperative Data,Clinical Data,1,updrs3_25_r_on,1
+8,Postoperative Data,Clinical Data,1,updrs3_25_r_off,4
+8,Postoperative Data,Clinical Data,1,updrs3_25_l_on,1
+8,Postoperative Data,Clinical Data,1,updrs3_25_l_off,3
+8,Postoperative Data,Clinical Data,1,updrs3_26_r_on,1
+8,Postoperative Data,Clinical Data,1,updrs3_26_r_off,4
+8,Postoperative Data,Clinical Data,1,updrs3_26_l_on,1
+8,Postoperative Data,Clinical Data,1,updrs3_26_l_off,4
+8,Postoperative Data,Clinical Data,1,updrs3_27_on,0
+8,Postoperative Data,Clinical Data,1,updrs3_27_off,4
+8,Postoperative Data,Clinical Data,1,updrs3_28_on,0
+8,Postoperative Data,Clinical Data,1,updrs3_28_off,4
+8,Postoperative Data,Clinical Data,1,updrs3_29_on,0
+8,Postoperative Data,Clinical Data,1,updrs3_29_off,4
+8,Postoperative Data,Clinical Data,1,updrs3_30_on,1
+8,Postoperative Data,Clinical Data,1,updrs3_30_off,4
+8,Postoperative Data,Clinical Data,1,updrs3_31_on,1
+8,Postoperative Data,Clinical Data,1,updrs3_31_off,4
+8,Postoperative Data,Clinical Data,1,updrs3_sum_on,22
+8,Postoperative Data,Clinical Data,1,updrs3_sum_off,97
+8,Postoperative Data,Clinical Data,1,updrs3_sum_on_2,22
+8,Postoperative Data,Clinical Data,1,updrs3_sum_off_2,97
+8,Postoperative Data,Clinical Data,1,updrs4_32,1
+8,Postoperative Data,Clinical Data,1,updrs4_33,1
+8,Postoperative Data,Clinical Data,1,updrs4_34,1
+8,Postoperative Data,Clinical Data,1,updrs4_35,0
+8,Postoperative Data,Clinical Data,1,updrs4_36,0
+8,Postoperative Data,Clinical Data,1,updrs4_37,0
+8,Postoperative Data,Clinical Data,1,updrs4_38,0
+8,Postoperative Data,Clinical Data,1,updrs4_39,0
+8,Postoperative Data,Clinical Data,1,updrs4_40,0
+8,Postoperative Data,Clinical Data,1,updrs4_41,0
+8,Postoperative Data,Clinical Data,1,updrs4_42,0
+8,Postoperative Data,Clinical Data,1,dyskinesia,no
+8,Postoperative Data,Clinical Data,1,dysarthria,no
+8,Postoperative Data,Clinical Data,1,dystonia,no
+8,Postoperative Data,Clinical Data,1,disturbed_vision,yes
+8,Postoperative Data,Clinical Data,1,dizziness,yes
+8,Postoperative Data,Clinical Data,1,mood_changes,no
+8,Postoperative Data,Clinical Data,1,paresthesia,no
+8,Postoperative Data,Clinical Data,1,ataxia,no
+8,Postoperative Data,Clinical Data,1,clinical_data_complete,Complete
+8,Postoperative Data,,,record_id,8
+8,Postoperative Data,Chronic Stimulation Parameters,1,chr_stim_params_hemisphere,Left
+8,Postoperative Data,Chronic Stimulation Parameters,1,impl_loc,STN
+8,Postoperative Data,Chronic Stimulation Parameters,1,voltage_or_current,Current
+8,Postoperative Data,Chronic Stimulation Parameters,1,polarity,Monopolar
+8,Postoperative Data,Chronic Stimulation Parameters,1,contact_0,ø
+8,Postoperative Data,Chronic Stimulation Parameters,1,contact_1,ø
+8,Postoperative Data,Chronic Stimulation Parameters,1,contact_2,ø
+8,Postoperative Data,Chronic Stimulation Parameters,1,contact_3,ø
+8,Postoperative Data,Chronic Stimulation Parameters,1,contact_4,ø
+8,Postoperative Data,Chronic Stimulation Parameters,1,contact_5,+
+8,Postoperative Data,Chronic Stimulation Parameters,1,pw_5,60
+8,Postoperative Data,Chronic Stimulation Parameters,1,freq_5,130
+8,Postoperative Data,Chronic Stimulation Parameters,1,ampl_5,2.6
+8,Postoperative Data,Chronic Stimulation Parameters,1,contact_6,ø
+8,Postoperative Data,Chronic Stimulation Parameters,1,contact_7,ø
+8,Postoperative Data,Chronic Stimulation Parameters,1,chronic_stimulation_parameters_complete,Complete
+8,Postoperative Data,Screening Stimulation Results,1,screening_aq_type,Postoperative (closest to one year follow-up)
+8,Postoperative Data,Screening Stimulation Results,1,screening_hemisphere,Left
+8,Postoperative Data,Screening Stimulation Results,1,screening_contact,1
+8,Postoperative Data,Screening Stimulation Results,1,screening_a0_r,0
+8,Postoperative Data,Screening Stimulation Results,1,screening_a0_a,0
+8,Postoperative Data,Screening Stimulation Results,1,screening_a0_a2,0
+8,Postoperative Data,Screening Stimulation Results,1,screening_a0_t,0
+8,Postoperative Data,Screening Stimulation Results,1,screening_a0_t2,0
+8,Postoperative Data,Screening Stimulation Results,1,screening_a0_c,Baseline
+8,Postoperative Data,Screening Stimulation Results,1,screening_a1_r,0
+8,Postoperative Data,Screening Stimulation Results,1,screening_a1_a,0
+8,Postoperative Data,Screening Stimulation Results,1,screening_a1_a2,0
+8,Postoperative Data,Screening Stimulation Results,1,screening_a1_t,0
+8,Postoperative Data,Screening Stimulation Results,1,screening_a1_t2,0
+8,Postoperative Data,Screening Stimulation Results,1,screening_a13_r,+
+8,Postoperative Data,Screening Stimulation Results,1,screening_a13_a,++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a13_a2,++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a13_t,++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a13_t2,+
+8,Postoperative Data,Screening Stimulation Results,1,screening_a16_r,+
+8,Postoperative Data,Screening Stimulation Results,1,screening_a16_a,+
+8,Postoperative Data,Screening Stimulation Results,1,screening_a16_a2,+
+8,Postoperative Data,Screening Stimulation Results,1,screening_a16_t,+
+8,Postoperative Data,Screening Stimulation Results,1,screening_a16_t2,+
+8,Postoperative Data,Screening Stimulation Results,1,screening_a19_r,++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a19_a,++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a19_a2,++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a19_t,+++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a19_t2,++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a22_r,+++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a22_a,++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a22_a2,++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a22_t,+++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a22_t2,++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a25_r,+++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a25_a,++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a25_a2,+++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a25_t,++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a25_t2,++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a28_r,+++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a28_a,+++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a28_a2,+++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a28_t,+++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a28_t2,+++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a31_r,++++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a31_a,++++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a31_a2,+++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a31_t,+++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a31_t2,+++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a34_r,+++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a34_a,+++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a34_a2,+++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a34_t,+++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a34_t2,++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a37_r,++++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a37_a,++++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a45_r,++++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a45_a,+++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a45_t,+++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a5_a2,++++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a5_t,+++
+8,Postoperative Data,Screening Stimulation Results,1,screening_a5_t2,++++
+8,Postoperative Data,Screening Stimulation Results,1,screening_stimulation_results_complete,Complete
+8,Postoperative Data,Chronic Stimulation Parameters,2,chr_stim_params_hemisphere,Right
+8,Postoperative Data,Chronic Stimulation Parameters,2,impl_loc,STN
+8,Postoperative Data,Chronic Stimulation Parameters,2,voltage_or_current,Voltage
+8,Postoperative Data,Chronic Stimulation Parameters,2,polarity,Bipolar
+8,Postoperative Data,Chronic Stimulation Parameters,2,contact_0,ø
+8,Postoperative Data,Chronic Stimulation Parameters,2,contact_1,ø
+8,Postoperative Data,Chronic Stimulation Parameters,2,contact_2,ø
+8,Postoperative Data,Chronic Stimulation Parameters,2,contact_3,ø
+8,Postoperative Data,Chronic Stimulation Parameters,2,contact_4,ø
+8,Postoperative Data,Chronic Stimulation Parameters,2,contact_5,+
+8,Postoperative Data,Chronic Stimulation Parameters,2,pw_5,60
+8,Postoperative Data,Chronic Stimulation Parameters,2,freq_5,130
+8,Postoperative Data,Chronic Stimulation Parameters,2,ampl_5,2
+8,Postoperative Data,Chronic Stimulation Parameters,2,contact_6,+
+8,Postoperative Data,Chronic Stimulation Parameters,2,pw_6,60
+8,Postoperative Data,Chronic Stimulation Parameters,2,freq_6,130
+8,Postoperative Data,Chronic Stimulation Parameters,2,ampl_6,1
+8,Postoperative Data,Chronic Stimulation Parameters,2,contact_7,ø
+8,Postoperative Data,Chronic Stimulation Parameters,2,chronic_stimulation_parameters_complete,Complete
+8,Postoperative Data,Screening Stimulation Results,2,screening_aq_type,Postoperative (closest to one year follow-up)
+8,Postoperative Data,Screening Stimulation Results,2,screening_hemisphere,Right
+8,Postoperative Data,Screening Stimulation Results,2,screening_contact,3A
+8,Postoperative Data,Screening Stimulation Results,2,screening_a0_r,0
+8,Postoperative Data,Screening Stimulation Results,2,screening_a0_a,0
+8,Postoperative Data,Screening Stimulation Results,2,screening_a0_a2,0
+8,Postoperative Data,Screening Stimulation Results,2,screening_a0_t,0
+8,Postoperative Data,Screening Stimulation Results,2,screening_a0_t2,0
+8,Postoperative Data,Screening Stimulation Results,2,screening_a0_c,Baseline
+8,Postoperative Data,Screening Stimulation Results,2,screening_a1_r,0
+8,Postoperative Data,Screening Stimulation Results,2,screening_a1_a,0
+8,Postoperative Data,Screening Stimulation Results,2,screening_a1_a2,+
+8,Postoperative Data,Screening Stimulation Results,2,screening_a1_t,0
+8,Postoperative Data,Screening Stimulation Results,2,screening_a1_t2,+
+8,Postoperative Data,Screening Stimulation Results,2,screening_a13_r,+
+8,Postoperative Data,Screening Stimulation Results,2,screening_a13_a,+
+8,Postoperative Data,Screening Stimulation Results,2,screening_a13_a2,+
+8,Postoperative Data,Screening Stimulation Results,2,screening_a13_t,+
+8,Postoperative Data,Screening Stimulation Results,2,screening_a13_t2,+
+8,Postoperative Data,Screening Stimulation Results,2,screening_a16_r,+
+8,Postoperative Data,Screening Stimulation Results,2,screening_a16_a,+
+8,Postoperative Data,Screening Stimulation Results,2,screening_a16_a2,+
+8,Postoperative Data,Screening Stimulation Results,2,screening_a16_t,+
+8,Postoperative Data,Screening Stimulation Results,2,screening_a16_t2,+
+8,Postoperative Data,Screening Stimulation Results,2,screening_a19_r,++
+8,Postoperative Data,Screening Stimulation Results,2,screening_a19_a,++
+8,Postoperative Data,Screening Stimulation Results,2,screening_a19_a2,+
+8,Postoperative Data,Screening Stimulation Results,2,screening_a19_t,++
+8,Postoperative Data,Screening Stimulation Results,2,screening_a19_t2,++
+8,Postoperative Data,Screening Stimulation Results,2,screening_a22_r,++
+8,Postoperative Data,Screening Stimulation Results,2,screening_a22_a,+++
+8,Postoperative Data,Screening Stimulation Results,2,screening_a22_a2,++
+8,Postoperative Data,Screening Stimulation Results,2,screening_a22_t,+++
+8,Postoperative Data,Screening Stimulation Results,2,screening_a22_t2,++
+8,Postoperative Data,Screening Stimulation Results,2,screening_a25_r,++
+8,Postoperative Data,Screening Stimulation Results,2,screening_a25_a,++
+8,Postoperative Data,Screening Stimulation Results,2,screening_a25_a2,++
+8,Postoperative Data,Screening Stimulation Results,2,screening_a25_t,++
+8,Postoperative Data,Screening Stimulation Results,2,screening_a25_t2,+++
+8,Postoperative Data,Screening Stimulation Results,2,screening_a28_r,+++
+8,Postoperative Data,Screening Stimulation Results,2,screening_a28_a,+++
+8,Postoperative Data,Screening Stimulation Results,2,screening_a28_a2,+++
+8,Postoperative Data,Screening Stimulation Results,2,screening_a31_r,++++
+8,Postoperative Data,Screening Stimulation Results,2,screening_a31_a2,+++
+8,Postoperative Data,Screening Stimulation Results,2,screening_a34_r,++
+8,Postoperative Data,Screening Stimulation Results,2,screening_a34_t2,++++
+8,Postoperative Data,Screening Stimulation Results,2,screening_a37_r,++++
+8,Postoperative Data,Screening Stimulation Results,2,screening_a37_a2,++
+8,Postoperative Data,Screening Stimulation Results,2,screening_a37_t,+
+8,Postoperative Data,Screening Stimulation Results,2,screening_a37_t2,+
+8,Postoperative Data,Screening Stimulation Results,2,screening_a4_a,+++
+8,Postoperative Data,Screening Stimulation Results,2,screening_a4_a2,+++
+8,Postoperative Data,Screening Stimulation Results,2,screening_a4_t,++
+8,Postoperative Data,Screening Stimulation Results,2,screening_a4_t2,++
+8,Postoperative Data,Screening Stimulation Results,2,screening_a45_se,TOM: fction
+8,Postoperative Data,Screening Stimulation Results,2,screening_a45_se,TOM: III ext
+8,Postoperative Data,Screening Stimulation Results,2,screening_a45_se,VEG: sueur / rougeur
+8,Postoperative Data,Screening Stimulation Results,2,screening_a5_se,PYRamidal
+8,Postoperative Data,Screening Stimulation Results,2,screening_a5_se,SENsitif
+8,Postoperative Data,Screening Stimulation Results,2,screening_a5_se,DYSKinésie
+8,Postoperative Data,Screening Stimulation Results,2,screening_stimulation_results_complete,Complete
+9,General Data,,,patient_id, 04-S-T_71_M_DDDD
+9,General Data,,,gen_consent_available,No
+9,General Data,,,age,71
+9,General Data,,,biological_sex,Male
+9,General Data,,,pathology,Essential Tremor
+9,General Data,,,first_symptom_occ,2015
+9,General Data,,,duration_disease,9
+9,General Data,,,surgery_date,2022-07-08
+9,General Data,,,patient_information_complete,Complete
+9,General Data,,,record_id,9
+9,General Data,,,clin_aq_type,Preoperative
+9,General Data,,,clin_aq_date,2022-07-07
+9,General Data,,,pd_ldd,3
+9,General Data,,,et_dose_primidone,3
+9,General Data,,,et_dose_propranolol,3
+9,General Data,,,et_dose_gabapetin,3
+9,General Data,,,et_dose_rivotril,3
+9,General Data,,,et_dose_topamax,3
+9,General Data,,,date_updrs,2022-07-07
+9,General Data,,,updrs3_18_on,2
+9,General Data,,,updrs3_19_on,3
+9,General Data,,,updrs3_20_face_on,2
+9,General Data,,,updrs3_20_hand_r_on,3
+9,General Data,,,updrs3_20_hand_l_on,2
+9,General Data,,,updrs3_20_foot_r_on,3
+9,General Data,,,updrs3_20_foot_l_on,2
+9,General Data,,,updrs3_21_r_on,3
+9,General Data,,,updrs3_21_l_on,2
+9,General Data,,,updrs3_22_neck_on,3
+9,General Data,,,updrs3_22_rue_on,2
+9,General Data,,,updrs3_22_lue_on,3
+9,General Data,,,updrs3_22_rle_on,2
+9,General Data,,,updrs3_22_lle_on,3
+9,General Data,,,updrs3_23_r_on,2
+9,General Data,,,updrs3_23_l_on,3
+9,General Data,,,updrs3_24_r_on,2
+9,General Data,,,updrs3_24_l_on,3
+9,General Data,,,updrs3_25_r_on,2
+9,General Data,,,updrs3_25_l_on,3
+9,General Data,,,updrs3_26_r_on,2
+9,General Data,,,updrs3_26_l_on,3
+9,General Data,,,updrs3_27_on,2
+9,General Data,,,updrs3_28_on,3
+9,General Data,,,updrs3_29_on,2
+9,General Data,,,updrs3_30_on,3
+9,General Data,,,updrs3_31_on,2
+9,General Data,,,updrs3_sum_on,67
+9,General Data,,,updrs3_sum_on_2,67
+9,General Data,,,updrs4_32,3
+9,General Data,,,updrs4_33,2
+9,General Data,,,updrs4_34,3
+9,General Data,,,updrs4_35,1
+9,General Data,,,updrs4_36,0
+9,General Data,,,updrs4_37,1
+9,General Data,,,updrs4_38,1
+9,General Data,,,updrs4_39,4
+9,General Data,,,updrs4_40,1
+9,General Data,,,updrs4_41,0
+9,General Data,,,updrs4_42,1
+9,General Data,,,dyskinesia,no
+9,General Data,,,dysarthria,yes
+9,General Data,,,dystonia,no
+9,General Data,,,disturbed_vision,yes
+9,General Data,,,dizziness,yes
+9,General Data,,,mood_changes,yes
+9,General Data,,,paresthesia,no
+9,General Data,,,ataxia,no
+9,General Data,,,clinical_data_complete,Complete
+9,General Data,,,updrs3_sum_off_2,NAN
+9,Intraoperative Data,,,iplan_planning_data,Yes
+9,Intraoperative Data,,,preop_ct,stereotactic
+9,Intraoperative Data,,,postop_ct,non-stereotactic
+9,Intraoperative Data,,,preop_mr,stereotactic
+9,Intraoperative Data,,,postop_mr,N/A
+9,Intraoperative Data,,,seq_preop_mr,T1
+9,Intraoperative Data,,,seq_preop_mr,WAIR
+9,Intraoperative Data,,,image_data_complete,Complete
+9,Intraoperative Data,,,record_id,9
+9,Intraoperative Data,,,bilat_impl,Yes
+9,Intraoperative Data,,,bilat_which_first,Left
+9,Intraoperative Data,,,unilat_which_side,Left
+9,Intraoperative Data,,,target_structure,VIM
+9,Intraoperative Data,,,type_impl_electrode,Medtronic 3389
+9,Intraoperative Data,,,have_intraop_meas,No
+9,Intraoperative Data,,,st_coords_l_a,89
+9,Intraoperative Data,,,st_coords_l_b,98
+9,Intraoperative Data,,,st_coords_l_c,99
+9,Intraoperative Data,,,st_coords_l_d,102.5
+9,Intraoperative Data,,,st_coords_l_e,110
+9,Intraoperative Data,,,st_coords_r_a,109
+9,Intraoperative Data,,,st_coords_r_b,96.5
+9,Intraoperative Data,,,st_coords_r_c,107
+9,Intraoperative Data,,,st_coords_r_d,95
+9,Intraoperative Data,,,st_coords_r_e,98
+9,Intraoperative Data,,,targeting_information_complete,Complete
+9,Intraoperative Data,Macro Stimulation Results,1,macro_aq_type,Intraoperative
+9,Intraoperative Data,Macro Stimulation Results,1,macro_hemisphere,Left
+9,Intraoperative Data,Macro Stimulation Results,1,macro_traj,Center
+9,Intraoperative Data,Macro Stimulation Results,1,macro_pos,4
+9,Intraoperative Data,Macro Stimulation Results,1,macro_amp_add_1,1.4
+9,Intraoperative Data,Macro Stimulation Results,1,macro_add1_r,++++
+9,Intraoperative Data,Macro Stimulation Results,1,macro_add1_t,++++
+9,Intraoperative Data,Macro Stimulation Results,1,macro_add1_rt,++++
+9,Intraoperative Data,Macro Stimulation Results,1,macro_amp_add_2,3
+9,Intraoperative Data,Macro Stimulation Results,1,macro_add2_se,PYRamidal
+9,Intraoperative Data,Macro Stimulation Results,1,macro_stimulation_results_complete,Complete
+9,Intraoperative Data,Implanted Position,1,impl_pos_hemisphere,Left
+9,Intraoperative Data,Implanted Position,1,impl_pos_traj,Center
+9,Intraoperative Data,Implanted Position,1,impl_pos_pos,-2
+9,Intraoperative Data,Implanted Position,1,impl_pos_lead_contact,4
+9,Intraoperative Data,Implanted Position,1,impl_pos_contact_border,Distal (Lower)
+9,Intraoperative Data,Implanted Position,1,implanted_position_complete,Complete
+9,Intraoperative Data,Macro Stimulation Results,2,macro_aq_type,Intraoperative
+9,Intraoperative Data,Macro Stimulation Results,2,macro_hemisphere,Left
+9,Intraoperative Data,Macro Stimulation Results,2,macro_pos,0
+9,Intraoperative Data,Macro Stimulation Results,2,macro_amp_add_1,1
+9,Intraoperative Data,Macro Stimulation Results,2,macro_add1_r,+++
+9,Intraoperative Data,Macro Stimulation Results,2,macro_add1_t,+++
+9,Intraoperative Data,Macro Stimulation Results,2,macro_add1_rt,+++
+9,Intraoperative Data,Macro Stimulation Results,2,macro_amp_add_2,3
+9,Intraoperative Data,Macro Stimulation Results,2,macro_add2_r,+++
+9,Intraoperative Data,Macro Stimulation Results,2,macro_add2_t,+++
+9,Intraoperative Data,Macro Stimulation Results,2,macro_add2_rt,+++
+9,Intraoperative Data,Macro Stimulation Results,2,macro_stimulation_results_complete,Complete
+9,Intraoperative Data,Macro Stimulation Results,2,macro_traj,Posterior
+9,Intraoperative Data,Implanted Position,2,impl_pos_hemisphere,Right
+9,Intraoperative Data,Implanted Position,2,impl_pos_traj,Medial
+9,Intraoperative Data,Implanted Position,2,impl_pos_pos,0
+9,Intraoperative Data,Implanted Position,2,impl_pos_lead_contact,3
+9,Intraoperative Data,Implanted Position,2,impl_pos_contact_border,Milieu (Middle)
+9,Intraoperative Data,Implanted Position,2,implanted_position_complete,Complete
+9,Intraoperative Data,Macro Stimulation Results,3,macro_aq_type,Intraoperative
+9,Intraoperative Data,Macro Stimulation Results,3,macro_hemisphere,Right
+9,Intraoperative Data,Macro Stimulation Results,3,macro_traj,Center
+9,Intraoperative Data,Macro Stimulation Results,3,macro_pos,2
+9,Intraoperative Data,Macro Stimulation Results,3,macro_amp_add_1,2.2
+9,Intraoperative Data,Macro Stimulation Results,3,macro_add1_r,++-
+9,Intraoperative Data,Macro Stimulation Results,3,macro_add1_t,+++
+9,Intraoperative Data,Macro Stimulation Results,3,macro_add1_rt,++-
+9,Intraoperative Data,Macro Stimulation Results,3,macro_amp_add_2,3
+9,Intraoperative Data,Macro Stimulation Results,3,macro_add2_r,++
+9,Intraoperative Data,Macro Stimulation Results,3,macro_add2_t,++
+9,Intraoperative Data,Macro Stimulation Results,3,macro_add2_rt,++
+9,Intraoperative Data,Macro Stimulation Results,3,macro_stimulation_results_complete,Complete
+9,Intraoperative Data,Macro Stimulation Results,4,macro_aq_type,Intraoperative
+9,Intraoperative Data,Macro Stimulation Results,4,macro_hemisphere,Right
+9,Intraoperative Data,Macro Stimulation Results,4,macro_traj,Lateral
+9,Intraoperative Data,Macro Stimulation Results,4,macro_pos,5
+9,Intraoperative Data,Macro Stimulation Results,4,macro_amp_add_1,1.8
+9,Intraoperative Data,Macro Stimulation Results,4,macro_add1_r,++-
+9,Intraoperative Data,Macro Stimulation Results,4,macro_add1_t,++-
+9,Intraoperative Data,Macro Stimulation Results,4,macro_add1_rt,+++
+9,Intraoperative Data,Macro Stimulation Results,4,macro_amp_add_2,3
+9,Intraoperative Data,Macro Stimulation Results,4,macro_add2_se,DYSatrie
+9,Intraoperative Data,Macro Stimulation Results,4,macro_add2_se,PYRamidal
+9,Intraoperative Data,Macro Stimulation Results,4,macro_add2_se,SENsitif
+9,Intraoperative Data,Macro Stimulation Results,4,macro_add2_se,VEG: malaise / nausée
+9,Intraoperative Data,Macro Stimulation Results,4,macro_add2_se,VEG: sueur / rougeur
+9,Intraoperative Data,Macro Stimulation Results,4,macro_add2_se,DYSKinésie
+9,Intraoperative Data,Macro Stimulation Results,4,macro_stimulation_results_complete,Complete
+9,Postoperative Data,Clinical Data,1,clin_aq_type,Postoperative
+9,Postoperative Data,Clinical Data,1,clin_aq_date,2022-09-06
+9,Postoperative Data,Clinical Data,1,pd_ldd,2
+9,Postoperative Data,Clinical Data,1,et_dose_primidone,0
+9,Postoperative Data,Clinical Data,1,et_dose_propranolol,0
+9,Postoperative Data,Clinical Data,1,et_dose_gabapetin,0
+9,Postoperative Data,Clinical Data,1,et_dose_rivotril,0
+9,Postoperative Data,Clinical Data,1,et_dose_topamax,0
+9,Postoperative Data,Clinical Data,1,date_updrs,2022-09-06
+9,Postoperative Data,Clinical Data,1,updrs3_18_on,1
+9,Postoperative Data,Clinical Data,1,updrs3_18_off,3
+9,Postoperative Data,Clinical Data,1,updrs3_19_on,1
+9,Postoperative Data,Clinical Data,1,updrs3_19_off,4
+9,Postoperative Data,Clinical Data,1,updrs3_20_face_on,2
+9,Postoperative Data,Clinical Data,1,updrs3_20_face_off,3
+9,Postoperative Data,Clinical Data,1,updrs3_20_hand_r_on,1
+9,Postoperative Data,Clinical Data,1,updrs3_20_hand_r_off,2
+9,Postoperative Data,Clinical Data,1,updrs3_20_hand_l_on,0
+9,Postoperative Data,Clinical Data,1,updrs3_20_hand_l_off,2
+9,Postoperative Data,Clinical Data,1,updrs3_20_foot_r_on,0
+9,Postoperative Data,Clinical Data,1,updrs3_20_foot_r_off,2
+9,Postoperative Data,Clinical Data,1,updrs3_20_foot_l_on,1
+9,Postoperative Data,Clinical Data,1,updrs3_20_foot_l_off,3
+9,Postoperative Data,Clinical Data,1,updrs3_21_r_on,0
+9,Postoperative Data,Clinical Data,1,updrs3_21_r_off,4
+9,Postoperative Data,Clinical Data,1,updrs3_21_l_on,1
+9,Postoperative Data,Clinical Data,1,updrs3_21_l_off,4
+9,Postoperative Data,Clinical Data,1,updrs3_22_neck_on,0
+9,Postoperative Data,Clinical Data,1,updrs3_22_neck_off,4
+9,Postoperative Data,Clinical Data,1,updrs3_22_rue_on,1
+9,Postoperative Data,Clinical Data,1,updrs3_22_rue_off,3
+9,Postoperative Data,Clinical Data,1,updrs3_22_lue_on,0
+9,Postoperative Data,Clinical Data,1,updrs3_22_lue_off,2
+9,Postoperative Data,Clinical Data,1,updrs3_22_rle_on,1
+9,Postoperative Data,Clinical Data,1,updrs3_22_rle_off,2
+9,Postoperative Data,Clinical Data,1,updrs3_22_lle_on,0
+9,Postoperative Data,Clinical Data,1,updrs3_22_lle_off,2
+9,Postoperative Data,Clinical Data,1,updrs3_23_r_on,1
+9,Postoperative Data,Clinical Data,1,updrs3_23_r_off,3
+9,Postoperative Data,Clinical Data,1,updrs3_23_l_on,0
+9,Postoperative Data,Clinical Data,1,updrs3_23_l_off,4
+9,Postoperative Data,Clinical Data,1,updrs3_24_r_on,1
+9,Postoperative Data,Clinical Data,1,updrs3_24_r_off,4
+9,Postoperative Data,Clinical Data,1,updrs3_24_l_on,0
+9,Postoperative Data,Clinical Data,1,updrs3_24_l_off,4
+9,Postoperative Data,Clinical Data,1,updrs3_25_r_on,1
+9,Postoperative Data,Clinical Data,1,updrs3_25_r_off,3
+9,Postoperative Data,Clinical Data,1,updrs3_25_l_on,0
+9,Postoperative Data,Clinical Data,1,updrs3_25_l_off,2
+9,Postoperative Data,Clinical Data,1,updrs3_26_r_on,1
+9,Postoperative Data,Clinical Data,1,updrs3_26_r_off,2
+9,Postoperative Data,Clinical Data,1,updrs3_26_l_on,0
+9,Postoperative Data,Clinical Data,1,updrs3_26_l_off,2
+9,Postoperative Data,Clinical Data,1,updrs3_27_on,1
+9,Postoperative Data,Clinical Data,1,updrs3_27_off,3
+9,Postoperative Data,Clinical Data,1,updrs3_28_on,0
+9,Postoperative Data,Clinical Data,1,updrs3_28_off,4
+9,Postoperative Data,Clinical Data,1,updrs3_29_on,1
+9,Postoperative Data,Clinical Data,1,updrs3_29_off,3
+9,Postoperative Data,Clinical Data,1,updrs3_30_on,0
+9,Postoperative Data,Clinical Data,1,updrs3_30_off,2
+9,Postoperative Data,Clinical Data,1,updrs3_31_on,1
+9,Postoperative Data,Clinical Data,1,updrs3_31_off,3
+9,Postoperative Data,Clinical Data,1,updrs3_sum_on,16
+9,Postoperative Data,Clinical Data,1,updrs3_sum_off,79
+9,Postoperative Data,Clinical Data,1,updrs3_sum_on_2,16
+9,Postoperative Data,Clinical Data,1,updrs3_sum_off_2,79
+9,Postoperative Data,Clinical Data,1,updrs4_32,2
+9,Postoperative Data,Clinical Data,1,updrs4_33,1
+9,Postoperative Data,Clinical Data,1,updrs4_34,0
+9,Postoperative Data,Clinical Data,1,updrs4_35,0
+9,Postoperative Data,Clinical Data,1,updrs4_36,1
+9,Postoperative Data,Clinical Data,1,updrs4_37,0
+9,Postoperative Data,Clinical Data,1,updrs4_38,0
+9,Postoperative Data,Clinical Data,1,updrs4_39,0
+9,Postoperative Data,Clinical Data,1,updrs4_40,0
+9,Postoperative Data,Clinical Data,1,updrs4_41,0
+9,Postoperative Data,Clinical Data,1,updrs4_42,0
+9,Postoperative Data,Clinical Data,1,dyskinesia,no
+9,Postoperative Data,Clinical Data,1,dysarthria,yes
+9,Postoperative Data,Clinical Data,1,dystonia,no
+9,Postoperative Data,Clinical Data,1,disturbed_vision,no
+9,Postoperative Data,Clinical Data,1,dizziness,no
+9,Postoperative Data,Clinical Data,1,mood_changes,no
+9,Postoperative Data,Clinical Data,1,paresthesia,yes
+9,Postoperative Data,Clinical Data,1,ataxia,no
+9,Postoperative Data,Clinical Data,1,clinical_data_complete,Complete
+9,Postoperative Data,,,record_id,9
+9,Postoperative Data,Screening Stimulation Results,1,screening_aq_type,Postoperative (closest to one year follow-up)
+9,Postoperative Data,Screening Stimulation Results,1,screening_hemisphere,Left
+9,Postoperative Data,Screening Stimulation Results,1,screening_contact,3
+9,Postoperative Data,Screening Stimulation Results,1,screening_a0_r,0
+9,Postoperative Data,Screening Stimulation Results,1,screening_a0_a,0
+9,Postoperative Data,Screening Stimulation Results,1,screening_a0_a2,0
+9,Postoperative Data,Screening Stimulation Results,1,screening_a0_t,0
+9,Postoperative Data,Screening Stimulation Results,1,screening_a0_t2,0
+9,Postoperative Data,Screening Stimulation Results,1,screening_a0_c,Baseline
+9,Postoperative Data,Screening Stimulation Results,1,screening_a1_r,+
+9,Postoperative Data,Screening Stimulation Results,1,screening_a1_a,+
+9,Postoperative Data,Screening Stimulation Results,1,screening_a1_a2,+
+9,Postoperative Data,Screening Stimulation Results,1,screening_a1_t,+
+9,Postoperative Data,Screening Stimulation Results,1,screening_a1_t2,+
+9,Postoperative Data,Screening Stimulation Results,1,screening_a13_r,+
+9,Postoperative Data,Screening Stimulation Results,1,screening_a13_a,+
+9,Postoperative Data,Screening Stimulation Results,1,screening_a13_a2,+
+9,Postoperative Data,Screening Stimulation Results,1,screening_a13_t,+
+9,Postoperative Data,Screening Stimulation Results,1,screening_a13_t2,+
+9,Postoperative Data,Screening Stimulation Results,1,screening_a16_r,++
+9,Postoperative Data,Screening Stimulation Results,1,screening_a16_a,++
+9,Postoperative Data,Screening Stimulation Results,1,screening_a16_a2,++
+9,Postoperative Data,Screening Stimulation Results,1,screening_a16_t,+
+9,Postoperative Data,Screening Stimulation Results,1,screening_a16_t2,++
+9,Postoperative Data,Screening Stimulation Results,1,screening_a19_r,++
+9,Postoperative Data,Screening Stimulation Results,1,screening_a19_a,++
+9,Postoperative Data,Screening Stimulation Results,1,screening_a19_a2,+
+9,Postoperative Data,Screening Stimulation Results,1,screening_a19_t,++
+9,Postoperative Data,Screening Stimulation Results,1,screening_a19_t2,+
+9,Postoperative Data,Screening Stimulation Results,1,screening_a22_r,+++
+9,Postoperative Data,Screening Stimulation Results,1,screening_a22_a,+++
+9,Postoperative Data,Screening Stimulation Results,1,screening_a22_a2,+
+9,Postoperative Data,Screening Stimulation Results,1,screening_a22_t,+++
+9,Postoperative Data,Screening Stimulation Results,1,screening_a22_t2,+++
+9,Postoperative Data,Screening Stimulation Results,1,screening_a25_r,+++
+9,Postoperative Data,Screening Stimulation Results,1,screening_a25_a,+++
+9,Postoperative Data,Screening Stimulation Results,1,screening_a25_a2,+++
+9,Postoperative Data,Screening Stimulation Results,1,screening_a25_t,+++
+9,Postoperative Data,Screening Stimulation Results,1,screening_a25_t2,+++
+9,Postoperative Data,Screening Stimulation Results,1,screening_a28_r,+
+9,Postoperative Data,Screening Stimulation Results,1,screening_a28_a,+
+9,Postoperative Data,Screening Stimulation Results,1,screening_a28_a2,+
+9,Postoperative Data,Screening Stimulation Results,1,screening_a28_t,+
+9,Postoperative Data,Screening Stimulation Results,1,screening_a28_t2,+
+9,Postoperative Data,Screening Stimulation Results,1,screening_a31_r,+++
+9,Postoperative Data,Screening Stimulation Results,1,screening_a31_a,+++
+9,Postoperative Data,Screening Stimulation Results,1,screening_a31_a2,+++
+9,Postoperative Data,Screening Stimulation Results,1,screening_a31_t,+++
+9,Postoperative Data,Screening Stimulation Results,1,screening_a31_t2,+++
+9,Postoperative Data,Screening Stimulation Results,1,screening_a34_r,+++
+9,Postoperative Data,Screening Stimulation Results,1,screening_a34_a,+++
+9,Postoperative Data,Screening Stimulation Results,1,screening_a34_a2,+++
+9,Postoperative Data,Screening Stimulation Results,1,screening_a34_t,+++
+9,Postoperative Data,Screening Stimulation Results,1,screening_a34_t2,+++
+9,Postoperative Data,Screening Stimulation Results,1,screening_a37_se,SENsitif
+9,Postoperative Data,Screening Stimulation Results,1,screening_a37_se,VEG: malaise / nausée
+9,Postoperative Data,Screening Stimulation Results,1,screening_a37_se,VEG: sueur / rougeur
+9,Postoperative Data,Screening Stimulation Results,1,screening_a4_se,DYSatrie
+9,Postoperative Data,Screening Stimulation Results,1,screening_a4_se,PYRamidal
+9,Postoperative Data,Screening Stimulation Results,1,screening_a4_se,SENsitif
+9,Postoperative Data,Screening Stimulation Results,1,screening_stimulation_results_complete,Complete
+9,Postoperative Data,Chronic Stimulation Parameters,1,chr_stim_params_hemisphere,Left
+9,Postoperative Data,Chronic Stimulation Parameters,1,impl_loc,ZI
+9,Postoperative Data,Chronic Stimulation Parameters,1,voltage_or_current,Voltage
+9,Postoperative Data,Chronic Stimulation Parameters,1,polarity,Monopolar
+9,Postoperative Data,Chronic Stimulation Parameters,1,contact_0,ø
+9,Postoperative Data,Chronic Stimulation Parameters,1,contact_1,ø
+9,Postoperative Data,Chronic Stimulation Parameters,1,contact_2,+
+9,Postoperative Data,Chronic Stimulation Parameters,1,pw_2,60
+9,Postoperative Data,Chronic Stimulation Parameters,1,freq_2,130
+9,Postoperative Data,Chronic Stimulation Parameters,1,ampl_2,1.4
+9,Postoperative Data,Chronic Stimulation Parameters,1,contact_3,ø
+9,Postoperative Data,Chronic Stimulation Parameters,1,chronic_stimulation_parameters_complete,Complete
+9,Postoperative Data,Screening Stimulation Results,2,screening_aq_type,Postoperative (closest to one year follow-up)
+9,Postoperative Data,Screening Stimulation Results,2,screening_hemisphere,Right
+9,Postoperative Data,Screening Stimulation Results,2,screening_contact,6
+9,Postoperative Data,Screening Stimulation Results,2,screening_a0_r,0
+9,Postoperative Data,Screening Stimulation Results,2,screening_a0_a,0
+9,Postoperative Data,Screening Stimulation Results,2,screening_a0_a2,0
+9,Postoperative Data,Screening Stimulation Results,2,screening_a0_t,0
+9,Postoperative Data,Screening Stimulation Results,2,screening_a0_t2,0
+9,Postoperative Data,Screening Stimulation Results,2,screening_a0_c,Baseline
+9,Postoperative Data,Screening Stimulation Results,2,screening_a1_r,+
+9,Postoperative Data,Screening Stimulation Results,2,screening_a1_a,+
+9,Postoperative Data,Screening Stimulation Results,2,screening_a1_a2,+
+9,Postoperative Data,Screening Stimulation Results,2,screening_a1_t,+
+9,Postoperative Data,Screening Stimulation Results,2,screening_a1_t2,+
+9,Postoperative Data,Screening Stimulation Results,2,screening_a13_r,+
+9,Postoperative Data,Screening Stimulation Results,2,screening_a13_a,+
+9,Postoperative Data,Screening Stimulation Results,2,screening_a13_a2,+
+9,Postoperative Data,Screening Stimulation Results,2,screening_a13_t,+
+9,Postoperative Data,Screening Stimulation Results,2,screening_a13_t2,+
+9,Postoperative Data,Screening Stimulation Results,2,screening_a16_r,+
+9,Postoperative Data,Screening Stimulation Results,2,screening_a16_a,+
+9,Postoperative Data,Screening Stimulation Results,2,screening_a16_a2,+
+9,Postoperative Data,Screening Stimulation Results,2,screening_a16_t,+
+9,Postoperative Data,Screening Stimulation Results,2,screening_a16_t2,+
+9,Postoperative Data,Screening Stimulation Results,2,screening_a19_r,++
+9,Postoperative Data,Screening Stimulation Results,2,screening_a19_a,++
+9,Postoperative Data,Screening Stimulation Results,2,screening_a19_a2,++
+9,Postoperative Data,Screening Stimulation Results,2,screening_a19_t,++
+9,Postoperative Data,Screening Stimulation Results,2,screening_a19_t2,++
+9,Postoperative Data,Screening Stimulation Results,2,screening_a22_r,++
+9,Postoperative Data,Screening Stimulation Results,2,screening_a22_a,+
+9,Postoperative Data,Screening Stimulation Results,2,screening_a22_a2,++
+9,Postoperative Data,Screening Stimulation Results,2,screening_a22_t,+
+9,Postoperative Data,Screening Stimulation Results,2,screening_a22_t2,++
+9,Postoperative Data,Screening Stimulation Results,2,screening_a25_r,+++
+9,Postoperative Data,Screening Stimulation Results,2,screening_a25_a,+++
+9,Postoperative Data,Screening Stimulation Results,2,screening_a25_a2,+++
+9,Postoperative Data,Screening Stimulation Results,2,screening_a25_t,+++
+9,Postoperative Data,Screening Stimulation Results,2,screening_a25_t2,+++
+9,Postoperative Data,Screening Stimulation Results,2,screening_a28_r,+
+9,Postoperative Data,Screening Stimulation Results,2,screening_a28_a,+
+9,Postoperative Data,Screening Stimulation Results,2,screening_a28_a2,+
+9,Postoperative Data,Screening Stimulation Results,2,screening_a28_t,+
+9,Postoperative Data,Screening Stimulation Results,2,screening_a28_t2,+
+9,Postoperative Data,Screening Stimulation Results,2,screening_a31_r,+
+9,Postoperative Data,Screening Stimulation Results,2,screening_a31_a,+
+9,Postoperative Data,Screening Stimulation Results,2,screening_a31_a2,+
+9,Postoperative Data,Screening Stimulation Results,2,screening_a31_t,+
+9,Postoperative Data,Screening Stimulation Results,2,screening_a31_t2,+
+9,Postoperative Data,Screening Stimulation Results,2,screening_a37_se,TOM: III int
+9,Postoperative Data,Screening Stimulation Results,2,screening_a37_se,TOM: III ext
+9,Postoperative Data,Screening Stimulation Results,2,screening_stimulation_results_complete,Complete
+9,Postoperative Data,Chronic Stimulation Parameters,2,chr_stim_params_hemisphere,Right
+9,Postoperative Data,Chronic Stimulation Parameters,2,impl_loc,VIM
+9,Postoperative Data,Chronic Stimulation Parameters,2,voltage_or_current,Current
+9,Postoperative Data,Chronic Stimulation Parameters,2,polarity,Monopolar
+9,Postoperative Data,Chronic Stimulation Parameters,2,contact_0,ø
+9,Postoperative Data,Chronic Stimulation Parameters,2,contact_1,ø
+9,Postoperative Data,Chronic Stimulation Parameters,2,contact_2,+
+9,Postoperative Data,Chronic Stimulation Parameters,2,pw_2,60
+9,Postoperative Data,Chronic Stimulation Parameters,2,freq_2,130
+9,Postoperative Data,Chronic Stimulation Parameters,2,ampl_2,1
+9,Postoperative Data,Chronic Stimulation Parameters,2,contact_3,ø
+9,Postoperative Data,Chronic Stimulation Parameters,2,chronic_stimulation_parameters_complete,Complete
