@@ -3,7 +3,7 @@
         "file_id": "d964207a84cdbcf6a8d3890e8dab5fbb2cae5118aa84a91c45d0a1567de9eaa5",
         "subject_id": "",
         "electrode_id": "",
-        "file_path": "NeuroDataManagementSystem/IMAGEDATA/BIDS_project/derivatives/Patients/sub-02ST80FBBBB/Transforms/sub-02ST80FBBBB_ses-sesWarp_acq-acqWarp_Patient2PD25_warp.nii.gz",
+        "file_path": "derivatives/Patients/sub-02ST80FBBBB/Transforms/sub-02ST80FBBBB_ses-sesWarp_acq-acqWarp_Patient2PD25_warp.nii.gz",
         "file_type": "Transforms",
         "source_id": "",
         "transformation_id": ""
@@ -15,7 +15,7 @@
         "stereotactic": "no",
         "dicom_image_type": "",
         "acquisition_date_time": "10-07-2024",
-        "relative_sidecar_path": "sub-02ST80FBBBB_ses-sesWarp_acq-acqWarp_Patient2PD25_warp_sidecar.json",
+        "relative_sidecar_path": "derivatives/Patients/sub-02ST80FBBBB/Transforms/sub-02ST80FBBBB_ses-sesWarp_acq-acqWarp_Patient2PD25_warp_sidecar.json",
         "bids_subject": "02ST80FBBBB",
         "bids_session": "sesWarp",
         "bids_extension": "nii.gz",

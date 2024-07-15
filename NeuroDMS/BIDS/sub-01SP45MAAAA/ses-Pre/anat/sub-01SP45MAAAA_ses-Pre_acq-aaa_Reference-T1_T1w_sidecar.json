@@ -3,7 +3,7 @@
         "file_id": "4a99e3c4a258f99290f6c5efbd7e89e6afe5ce69d33478751a6e8b5895cee374",
         "subject_id": "",
         "electrode_id": "",
-        "file_path": "NeuroDataManagementSystem/IMAGEDATA/BIDS_project/sub-01SP45MAAAA/ses-Pre/anat/sub-01SP45MAAAA_ses-Pre_acq-aaa_Reference-T1_T1w.nii.gz",
+        "file_path": "sub-01SP45MAAAA/ses-Pre/anat/sub-01SP45MAAAA_ses-Pre_acq-aaa_Reference-T1_T1w.nii.gz",
         "file_type": "anat",
         "source_id": "",
         "transformation_id": ""
@@ -15,7 +15,7 @@
         "stereotactic": "yes",
         "dicom_image_type": "",
         "acquisition_date_time": "06-03-2024",
-        "relative_sidecar_path": "sub-01SP45MAAAA_ses-Pre_acq-aaa_Reference-T1_T1w_sidecar.json",
+        "relative_sidecar_path": "sub-01SP45MAAAA/ses-Pre/anat/sub-01SP45MAAAA_ses-Pre_acq-aaa_Reference-T1_T1w_sidecar.json",
         "bids_subject": "01SP45MAAAA",
         "bids_session": "Pre",
         "bids_extension": "nii.gz",

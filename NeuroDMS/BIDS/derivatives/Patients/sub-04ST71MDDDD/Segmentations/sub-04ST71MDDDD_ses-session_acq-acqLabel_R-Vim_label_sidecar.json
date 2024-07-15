@@ -3,7 +3,7 @@
         "file_id": "b647a9b1acc96d48be6d12e178e9337e8707486f7c0c16746212a7e5dc8a3611",
         "subject_id": "",
         "electrode_id": "",
-        "file_path": "NeuroDataManagementSystem/IMAGEDATA/BIDS_project/derivatives/Patients/sub-04ST71MDDDD/Segmentations/sub-04ST71MDDDD_ses-session_acq-acqLabel_R-Vim_label.nii.gz",
+        "file_path": "derivatives/Patients/sub-04ST71MDDDD/Segmentations/sub-04ST71MDDDD_ses-session_acq-acqLabel_R-Vim_label.nii.gz",
         "file_type": "Segmentations",
         "source_id": "",
         "transformation_id": ""
@@ -15,7 +15,7 @@
         "stereotactic": "no",
         "dicom_image_type": "",
         "acquisition_date_time": "10-07-2024",
-        "relative_sidecar_path": "sub-04ST71MDDDD_ses-session_acq-acqLabel_R-Vim_label_sidecar.json",
+        "relative_sidecar_path": "derivatives/Patients/sub-04ST71MDDDD/Segmentations/sub-04ST71MDDDD_ses-session_acq-acqLabel_R-Vim_label_sidecar.json",
         "bids_subject": "04ST71MDDDD",
         "bids_session": "session",
         "bids_extension": "nii.gz",
