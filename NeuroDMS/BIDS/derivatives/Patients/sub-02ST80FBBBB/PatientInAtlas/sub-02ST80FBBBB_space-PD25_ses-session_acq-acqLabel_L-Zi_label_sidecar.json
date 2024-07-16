@@ -14,7 +14,7 @@
         "protocol_name": "",
         "stereotactic": "no",
         "dicom_image_type": "",
-        "acquisition_date_time": "10-07-2024",
+        "acquisition_date_time": "14-07-2022",
         "relative_sidecar_path": "derivatives/Patients/sub-02ST80FBBBB/PatientInAtlas/sub-02ST80FBBBB_space-PD25_ses-session_acq-acqLabel_L-Zi_label_sidecar.json",
         "bids_subject": "02ST80FBBBB",
         "bids_session": "session",
@@ -24,7 +24,6 @@
         "bids_suffix": "label"
     },
     "labels": {
-        "is_label": "yes",
         "file_id": "170a6f1c89b461f804e607d7354e0807ea3f9a052be65716a2dac1d99dbadd96",
         "hemisphere": "L",
         "structure": "Zi",
@@ -32,7 +31,6 @@
         "comment": ""
     },
     "transformations": {
-        "is_transformation": "yes",
         "transformation_id": "",
         "identity": "no",
         "target_id": "5d83d486e2b3d935b41636cbd15fc0f078ace77a6a81b0659dd14fb06ebe565c",

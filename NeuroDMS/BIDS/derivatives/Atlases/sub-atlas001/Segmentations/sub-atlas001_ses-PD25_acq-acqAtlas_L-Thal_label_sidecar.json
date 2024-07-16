@@ -24,7 +24,6 @@
         "bids_suffix": "label"
     },
     "labels": {
-        "is_label": "yes",
         "file_id": "3ee19e8c166551620f4a612e5c10486fdb295f98aa038f350a2054be0ded617b",
         "hemisphere": "L",
         "structure": "Thal",

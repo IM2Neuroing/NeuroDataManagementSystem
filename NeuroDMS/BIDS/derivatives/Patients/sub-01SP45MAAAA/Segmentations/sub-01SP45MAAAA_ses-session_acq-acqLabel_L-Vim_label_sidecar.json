@@ -24,7 +24,6 @@
         "bids_suffix": "label"
     },
     "labels": {
-        "is_label": "yes",
         "file_id": "09366b52a2c5c283c0907c959be65399f70582a6e37ff327d2fe36e2d0c01d30",
         "hemisphere": "L",
         "structure": "Vim",
