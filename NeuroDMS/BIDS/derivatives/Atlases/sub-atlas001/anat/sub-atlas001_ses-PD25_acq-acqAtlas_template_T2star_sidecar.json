@@ -2,18 +2,18 @@
     "files": {
         "file_id": "5d83d486e2b3d935b41636cbd15fc0f078ace77a6a81b0659dd14fb06ebe565c",
         "subject_id": "",
-        "electrode_id": "",
+        "electrode_id": "None",
         "file_path": "derivatives/Atlases/sub-atlas001/anat/sub-atlas001_ses-PD25_acq-acqAtlas_template_T2star.mnc.gz",
         "file_type": "anat",
-        "source_id": "",
+        "source_id": "None",
         "transformation_id": ""
     },
     "bids": {
         "file_id": "5d83d486e2b3d935b41636cbd15fc0f078ace77a6a81b0659dd14fb06ebe565c",
         "modality": "MR T2",
-        "protocol_name": "",
+        "protocol_name": "None",
         "stereotactic": "no",
-        "dicom_image_type": "",
+        "dicom_image_type": "None",
         "acquisition_date_time": "10-07-2024",
         "relative_sidecar_path": "derivatives/Atlases/sub-atlas001/anat/sub-atlas001_ses-PD25_acq-acqAtlas_template_T2star_sidecar.json",
         "bids_subject": "atlas001",

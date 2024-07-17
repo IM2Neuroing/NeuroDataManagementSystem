@@ -1,11 +1,11 @@
 {
     "files": {
         "file_id": "a7ae4ec9bdce90d8befb65063e84219cad62f6b8cb89e4ecf4bc16b18bab60e7",
-        "subject_id": "",
-        "electrode_id": "",
+        "subject_id": "9.0",
+        "electrode_id": "None",
         "file_path": "derivatives/Patients/sub-04ST71MDDDD/Segmentations/sub-04ST71MDDDD_ses-session_acq-acqLabel_L-CGL_label.nii.gz",
         "file_type": "Segmentations",
-        "source_id": "",
+        "source_id": "None",
         "transformation_id": ""
     },
     "bids": {
@@ -13,7 +13,7 @@
         "modality": "MR",
         "protocol_name": "protocolLabel",
         "stereotactic": "no",
-        "dicom_image_type": "",
+        "dicom_image_type": "None",
         "acquisition_date_time": "10-07-2024",
         "relative_sidecar_path": "derivatives/Patients/sub-04ST71MDDDD/Segmentations/sub-04ST71MDDDD_ses-session_acq-acqLabel_L-CGL_label_sidecar.json",
         "bids_subject": "04ST71MDDDD",
@@ -28,6 +28,6 @@
         "hemisphere": "L",
         "structure": "CGL",
         "color": "red",
-        "comment": ""
+        "comment": "None"
     }
 }
