@@ -1,11 +1,11 @@
 {
     "files": {
         "file_id": "024545d953ba91e25d6b34a5af0ca0bd10555df765a8254f13692e4cc1c512cd",
-        "subject_id": "",
-        "electrode_id": "",
+        "subject_id": "7.0",
+        "electrode_id": "None",
         "file_path": "sub-02ST80FBBBB/ses-Pre/anat/sub-02ST80FBBBB_ses-Pre_acq-aaa_Reference-T1_T1w.nii.gz",
         "file_type": "anat",
-        "source_id": "",
+        "source_id": "None",
         "transformation_id": ""
     },
     "bids": {
@@ -13,7 +13,7 @@
         "modality": "MR T1",
         "protocol_name": "protocol",
         "stereotactic": "yes",
-        "dicom_image_type": "",
+        "dicom_image_type": "None",
         "acquisition_date_time": "06-03-2024",
         "relative_sidecar_path": "sub-02ST80FBBBB/ses-Pre/anat/sub-02ST80FBBBB_ses-Pre_acq-aaa_Reference-T1_T1w_sidecar.json",
         "bids_subject": "02ST80FBBBB",
