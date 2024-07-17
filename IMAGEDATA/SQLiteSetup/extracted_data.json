@@ -226,7 +226,7 @@
                 "protocol_name": "",
                 "stereotactic": "no",
                 "dicom_image_type": "",
-                "acquisition_date_time": "10-07-2024",
+                "acquisition_date_time": "14-07-2022",
                 "relative_sidecar_path": "derivatives/Patients/sub-02ST80FBBBB/PatientInAtlas/sub-02ST80FBBBB_space-PD25_ses-session_acq-acqLabel_L-Zi_label_sidecar.json",
                 "bids_subject": "02ST80FBBBB",
                 "bids_session": "session",
