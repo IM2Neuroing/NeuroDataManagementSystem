@@ -10,7 +10,7 @@ services:
         - ./REDCap2SQLite_config.json:/app/config.json:ro
 
         # (optional) mount the raw data csv file (if extraction is skipped - see example)
-        - ./CLINICALDATA/Data/DBS_DATA.csv:/app/setup/DATA.csv:ro
+        - ./CLINICALDATA/Data/DBS_DATA.csv:/app/setup/DATA.csv
         # mount the entire mappingtables directory
         - ./CLINICALDATA/mappingTables:/app/setup/mappingtables:ro
         # mount the sqlite schema file
