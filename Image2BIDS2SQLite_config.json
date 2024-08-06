@@ -1,0 +1,19 @@
+{   
+    "__MAIN__config" : "version 1.0",
+    "datasystem_root": "NeuroDMS",
+    "bids_dir_path": "NeuroDMS/BIDS",
+    "__EXTRACT__config": "1.0",
+    "skip_extraction": false,
+    "extraction_path" : "setup",
+    "__TRANSFORM__config": "1.0",
+    "skip_transformation": false,
+    "skip_db_creation" : true,
+    "db_schema": "sqlite_schema.sql",
+    "__LOAD__config": "1.0",
+    "skip_loading": false,
+    "db_path": "NeuroDMS/DMS.db",
+    "__IMAGE_CLEANING__config": "1.0",
+    "skip_image_cleaning" : false,
+    "__BACKPROPAGATION__config":"1.0",
+    "skip_backpropagation": false
+}
