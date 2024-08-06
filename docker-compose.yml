@@ -1,0 +1,37 @@
+version: '3.8'
+
+services:
+    redcap2sqlite:
+        image: ghcr.io/im2neuroing/redcap2sqlite:main
+        volumes:
+        # folders to mount
+        - ./newNeuroDMS/:/app/NeuroDMS/
+        # files to mount needed for the configuration
+        - ./REDCap2SQLite_config.json:/app/config.json:ro
+
+        # (optional) mount the raw data csv file (if extraction is skipped - see example)
+        - ./CLINICALDATA/Data/DBS_DATA.csv:/app/setup/DATA.csv:ro
+        # mount the entire mappingtables directory
+        - ./CLINICALDATA/mappingTables:/app/setup/mappingtables:ro
+        # mount the sqlite schema file
+        - ./SQLite/sqlite_schema.sql:/app/setup/sqlite_schema.sql:ro
+        # OPTIONAL: if you want to mount the output folder
+        - ./newNeuroDMS/setup/:/app/data_setup/  #    "data_path": "data_setup/", to see the steps of the pipeline
+        environment:
+        - PYTHONUNBUFFERED=1
+
+    image2sqlite:
+        image: ghcr.io/im2neuroing/image2bids2sqlite:main-BIDS2SQLite
+        volumes:
+        # folder to mount
+        - ./newNeuroDMS/:/app/NeuroDMS/ #Image management System folder which contains the BIDS folder
+        # file to mount needed for the configuration
+        - ./Image2BIDS2SQLite_config.json:/app/config.json:ro
+        # file to mount needed for the schema (optional)
+        - ./SQLite/sqlite_schema.sql:/app/sqlite_schema.sql:ro
+
+        # OPTIONAL: if you want to mount the output folder
+        - ./newNeuroDMS/setup/:/app/setup/  #    "extraction_path" : "/setup" to see the steps of the pipeline
+        environment:
+        # set the environment variables
+        - PYTHONUNBUFFERED=1
