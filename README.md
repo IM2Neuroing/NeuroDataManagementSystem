@@ -10,7 +10,7 @@ The folders **CLINICALDATA** and **IMAGEDATA** contain respectively clinical and
 
 ## Building the NeuroDataManagementSystem
 
-The NeuroDataManagementSystem is system build of 3 components: REDCAP, BIDS and a SQLite database. Using a simple filesystem as a data storage, the NeuroDataManagementSystem is designed to manage clinical and imaging data. To combine the components, the NeuroDataManagementSystem uses the REDCap2SQLite and Image2BIDS2SQLite pipelines. These pipelines are developed in the following repositories:
+The NeuroDataManagementSystem is a system made of 3 components: REDCAP, BIDS and a SQLite database. Using a simple filesystem as a data storage, the NeuroDataManagementSystem is designed to manage clinical and imaging data. To combine the components, the NeuroDataManagementSystem uses the REDCap2SQLite and Image2BIDS2SQLite pipelines. These pipelines are developed in the following repositories:
 
 - REDCap2SQLite: **REDCap2SQLite** (https://github.com/IM2Neuroing/REDCap2SQLite.git)
 - Image2BIDS2SQLite: **Image2BIDS2SQLite** (https://github.com/IM2Neuroing/Image2BIDS2SQLite.git)
@@ -47,7 +47,9 @@ By following these steps, you can set up and access a REDCap instance to collect
 ## Usage
 
 To install the other parts of the NeuroDataManagementSystem, you need to have Docker and Docker Compose installed on your machine. If you don't have Docker and Docker Compose installed, you can follow the instructions below:
+
     - To install Docker, you can follow the instructions on the official Docker website: https://docs.docker.com/get-docker/
+    
     - To install Docker Compose, you can follow the instructions on the official Docker Compose website: https://docs.docker.com/compose/install/
 
 ### NeuroDataManagementSystem setup Steps
@@ -185,7 +187,7 @@ Adjust the docker-compose.yml file to your setup for the NeuroDataManagementSyst
 docker-compose up
 ```
 
-## Example Usage
+## Usage with provided 'toy' data
 
 In this repository, we provide an example of a NeuroDataManagementSystem setup. To build the example, you need to follow the steps below:
 
