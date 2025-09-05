@@ -81,7 +81,7 @@ The `electrodes` table stores information about different types of electrodes us
 
 | Column Name      | Data Type | Constraints  | Description |
 |-----------------|-----------|-------------|-------------|
-| electrode_name  | TEXT      | PRIMARY KEY, NOT NULL | Unique identifier for each electrode type. |
+| electrode_name  | TEXT      | PRIMARY KEY, NOT NULL | Unique identifier for each electrode type. As for example: 'Abbott SJM 6170'|
 
 ### **Subjects Table**
 The `subjects` table contains demographic and medical information about patients enrolled in DBS studies.
