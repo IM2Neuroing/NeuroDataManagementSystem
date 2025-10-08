@@ -1,0 +1,15 @@
+services:
+  gitea:
+    image: gitea/gitea:latest
+    container_name: gitea
+    restart: unless-stopped
+    ports:
+      - "80:3000"   # HTTP
+      - "22:22"     # SSH (optional)
+    environment:
+      - USER_UID=1000
+      - USER_GID=1000
+      - GITEA__server__ROOT_URL=http://example.com/
+      - GITEA__server__SSH_DOMAIN=example.com
+    volumes:
+      - ./gitea/data:/data

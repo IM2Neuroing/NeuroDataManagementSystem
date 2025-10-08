@@ -3,3 +3,4 @@ config.local.json
 .vscode
 newNeuroDMS
 .venv
+DemoNeuroDMS
